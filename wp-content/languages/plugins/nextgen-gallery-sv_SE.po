@@ -1,0 +1,3018 @@
+# Translation of Plugins - WordPress Gallery Plugin &#8211; NextGEN Gallery - Stable (latest release) in Swedish
+# This file is distributed under the same license as the Plugins - WordPress Gallery Plugin &#8211; NextGEN Gallery - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-09-16 17:40:44+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - WordPress Gallery Plugin &#8211; NextGEN Gallery - Stable (latest release)\n"
+
+#: products/photocrati_nextgen/modules/nextgen_block/static/src/components/ngg-post-thumbnail.jsx:30
+msgid "Could not load image"
+msgstr "Kunde inte ladda bild"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:340
+msgid "Disable the /ngg_tag/ page"
+msgstr "Inaktivera sidan /ngg_tag/"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/wpmu.php:46
+msgid "Updated successfully."
+msgstr "Uppdaterat utan problem."
+
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/templates/upload_images.php:41
+msgid "Creating..."
+msgstr "Skapar …"
+
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:433
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:451
+msgid "Drag image files here or %{browse}"
+msgstr "Dra bildfiler hit eller %{browse}"
+
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:170
+msgid "An unexpected error occurred: %s"
+msgstr "Ett oväntat fel uppstod: %s"
+
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/templates/upload_images.php:37
+msgid "Create &amp; select"
+msgstr "Skapa och välj"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:766
+msgid "Copied %1$s picture(s) to gallery: %2$s ."
+msgstr "Kopierade %1$s bild/bilder till galleri: %2$s ."
+
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:420
+msgid "You may select files up to %dMB"
+msgstr "Du kan välja bilder upp till %d MB"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:535
+msgid "Minimize"
+msgstr "Minimera"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:534
+msgid "Maximize"
+msgstr "Maximera"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:533
+msgid "Show all"
+msgstr "Visa alla"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:791
+msgid "Failed to move images"
+msgstr "Misslyckades att flytta bilder"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:771
+msgid "Failed to copy images"
+msgstr "Misslyckades att kopiera bilder"
+
+#: products/photocrati_nextgen/modules/ngglegacy/nggallery.php:107
+msgid "Sorry, NextGEN Gallery works only under WordPress %s or higher."
+msgstr "NextGEN Gallery fungerar endast med WordPress %s eller högre."
+
+#: products/photocrati_nextgen/modules/ngglegacy/nggallery.php:58
+msgid "<strong>Translation by : </strong><a target=\"_blank\" href=\"https://www.imagely.com/wordpress-gallery-plugin/nextgen-pro/\">See here</a>"
+msgstr "<strong>Översättning för: </strong><a target=\"_blank\" href=\"https://www.imagely.com/wordpress-gallery-plugin/nextgen-pro/\">Se här</a>"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/overview.php:260
+msgid "NextGEN Pro"
+msgstr "NextGEN Pro"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/overview.php:239
+msgid "Infinite Scroll"
+msgstr "Oändlig rullning"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/overview.php:238
+msgid "Lazy Loading"
+msgstr "Uppskjuten inläsning"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/overview.php:236
+msgid "Interface"
+msgstr "Gränssnitt"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/overview.php:231
+msgid "Price Lists"
+msgstr "Prislistor"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/overview.php:219
+msgid "Gallery Types"
+msgstr "Gallerityper"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/overview.php:118
+msgid "Get NextGEN Pro Now"
+msgstr "Skaffa NextGEN Pro nu"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/overview.php:116
+msgid "Upgrade to NextGEN Pro!"
+msgstr "Uppgradera till NextGEN Pro!"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/overview.php:53
+msgid "Unlock More"
+msgstr "Lås upp mer"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/overview.php:38
+msgid "More Videos"
+msgstr "Fler videoklipp"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/overview.php:37
+msgid "Welcome"
+msgstr "Välkommen"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:233
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:236
+msgid "Search Galleries"
+msgstr "Sök gallerier"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:158
+msgid "Gallery: "
+msgid_plural "Galleries: "
+msgstr[0] "Galleri:"
+msgstr[1] "Gallerier:"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_gallery/package.module.nextgen_basic_gallery.php:382
+#: products/photocrati_nextgen/modules/nextgen_basic_gallery/package.module.nextgen_basic_gallery.php:392
+msgid "Milliseconds"
+msgstr "Millisekunder"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_gallery/package.module.nextgen_basic_gallery.php:362
+msgid "Show Arrows?"
+msgstr "Visa pilar?"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_gallery/package.module.nextgen_basic_gallery.php:352
+msgid "Pause on Hover?"
+msgstr "Pausa på hovring?"
+
+#: products/photocrati_nextgen/modules/nextgen_xmlrpc/package.module.nextgen_xmlrpc.php:880
+msgid " (%1$s)."
+msgstr " (%1$s)."
+
+#: products/photocrati_nextgen/modules/marketing/package.module.marketing.php:222
+msgid "Upgrade Now"
+msgstr "Uppgradera nu"
+
+#: products/photocrati_nextgen/modules/marketing/package.module.marketing.php:193
+msgid "Learn more"
+msgstr "Lär dig mer"
+
+#: products/photocrati_nextgen/modules/marketing/package.module.marketing.php:193
+msgid "Protect your images"
+msgstr "Skydda dina bilder"
+
+#: products/photocrati_nextgen/modules/marketing/module.marketing.php:44
+msgid "Bonus"
+msgstr "Bonus"
+
+#: products/photocrati_nextgen/modules/marketing/package.module.marketing.php:289
+#: products/photocrati_nextgen/modules/marketing/package.module.marketing.php:318
+#: products/photocrati_nextgen/modules/marketing/templates/igw_promo.php:9
+msgid "Upgrade to NextGEN Pro"
+msgstr "Uppgradera till NextGEN Pro"
+
+#: products/photocrati_nextgen/modules/marketing/templates/igw_promo.php:3
+msgid "Want More Layouts?"
+msgstr "Vill du ha fler layouter?"
+
+#: products/photocrati_nextgen/modules/nextgen_settings/module.nextgen_settings.php:98
+msgid "View Thumbnails"
+msgstr "Visa miniatyrer"
+
+#: products/photocrati_nextgen/modules/nextgen_settings/module.nextgen_settings.php:97
+msgid "View Slideshow"
+msgstr "Visa bildspel"
+
+#: products/photocrati_nextgen/modules/nextgen_admin/package.module.nextgen_admin.php:960
+msgid "First Name"
+msgstr "Förnamn"
+
+#: products/photocrati_nextgen/modules/nextgen_admin/package.module.nextgen_admin.php:960
+msgid "Email Address"
+msgstr "E-postadress"
+
+#: products/photocrati_nextgen/modules/nextgen_admin/package.module.nextgen_admin.php:960
+msgid "Thank you for subscribing!"
+msgstr "Tack för att du prenumererar!"
+
+#: products/photocrati_nextgen/modules/nextgen_admin/package.module.nextgen_admin.php:960
+msgid "Yes, Please!"
+msgstr "Ja tack!"
+
+#: products/photocrati_nextgen/modules/nextgen_admin/templates/review_notice.php:16
+msgid "I already did"
+msgstr "Jag har redan gjort det"
+
+#: products/photocrati_nextgen/modules/nextgen_admin/templates/review_notice.php:15
+msgid "Nope, maybe later"
+msgstr "Nej, kanske senare"
+
+#: products/photocrati_nextgen/modules/nextgen_admin/templates/review_notice.php:14
+msgid "Ok, you deserve it"
+msgstr "Ok, du förtjänar det"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/overview.php:336
+msgid "CLICK TO LEARN MORE:"
+msgstr "KLICKA FÖR ATT LÄRA DIG MER:"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/overview.php:244
+msgid "Other"
+msgstr "Annat"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/overview.php:232
+msgid "Automated Tax Calculations"
+msgstr "Automatisk momsberäkning"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/overview.php:46
+#: products/photocrati_nextgen/modules/ngglegacy/admin/overview.php:210
+msgid "NextGEN Basic vs Pro"
+msgstr "Jämför NextGEN Basic och Pro"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/functions.php:121
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:625
+msgid "Gallery successfully created. <a href=\"%s\" target=\"_blank\">Manage gallery</a>"
+msgstr "Galleri skapat. <a href=\"%s\" target=\"_blank\">Hantera galleri</a>"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:375
+msgid "Deleted user"
+msgstr "Tog bort användare"
+
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/templates/import_media_library.php:9
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/templates/upload_images.php:32
+msgid "Gallery title"
+msgstr "Gallerirubrik"
+
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/templates/import_folder.php:1
+msgid "Select a folder to import."
+msgstr "Välj en mapp att importera."
+
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:451
+msgid "Manage gallery > {name}"
+msgstr "Hantera galleri > {name}"
+
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:451
+msgid "1 image was uploaded successfully."
+msgstr "En bild laddades upp."
+
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:43
+msgid "Upload complete. Great job!"
+msgstr "Uppladdning klar. Bra jobbat!"
+
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:35
+msgid "Import from Media Library"
+msgstr "Importera från mediabibliotek"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_gallery/package.module.nextgen_basic_gallery.php:392
+msgid "Transition Speed"
+msgstr "Övergångshastighet"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_gallery/package.module.nextgen_basic_gallery.php:372
+msgid "Transition Style"
+msgstr "Övergångsstil"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_gallery/package.module.nextgen_basic_gallery.php:342
+msgid "Autoplay?"
+msgstr "Spela upp automatiskt?"
+
+#: products/photocrati_nextgen/modules/nextgen_xmlrpc/package.module.nextgen_xmlrpc.php:1036
+msgid "Could not find album (%1$s)."
+msgstr "Kunde inte hitta album (%1$s)."
+
+#: products/photocrati_nextgen/modules/nextgen_xmlrpc/package.module.nextgen_xmlrpc.php:987
+msgid "Failed to remove album (%1$s)."
+msgstr "Misslyckades att ta bort album (%1$s)."
+
+#: products/photocrati_nextgen/modules/nextgen_xmlrpc/package.module.nextgen_xmlrpc.php:975
+msgid "Album creation failed."
+msgstr "Misslyckades att skapa album."
+
+#: products/photocrati_nextgen/modules/nextgen_xmlrpc/package.module.nextgen_xmlrpc.php:931
+msgid "Could not find gallery (%1$s)."
+msgstr "Kunde inte hitta galleri (%1$s)."
+
+#: products/photocrati_nextgen/modules/nextgen_xmlrpc/package.module.nextgen_xmlrpc.php:830
+msgid "Could not remove image from gallery (%1$s)."
+msgstr "Kunde inte ta bort bild från galleri (%1$s)."
+
+#: products/photocrati_nextgen/modules/nextgen_xmlrpc/package.module.nextgen_xmlrpc.php:765
+msgid "Failed to remove gallery (%1$s)."
+msgstr "Misslyckades att ta bort galleri (%1$s)."
+
+#: products/photocrati_nextgen/modules/nextgen_admin/module.nextgen_admin.php:678
+msgid "Select a name for your gallery."
+msgstr "Välj ett namn för ditt galleri."
+
+#: products/photocrati_nextgen/modules/nextgen_admin/module.nextgen_admin.php:523
+#: products/photocrati_nextgen/modules/nextgen_admin/module.nextgen_admin.php:626
+msgid "Type in a title for your page."
+msgstr "Skriv in en rubrik för din sida."
+
+#: products/photocrati_nextgen/modules/nextgen_admin/module.nextgen_admin.php:508
+msgid "Click \"Add New\" to create a new page."
+msgstr "Klicka ”Lägg till ny” för att skapa en ny sida."
+
+#: products/photocrati_nextgen/modules/nextgen_admin/module.nextgen_admin.php:491
+msgid "Do you need help with NextGEN?"
+msgstr "Behöver du hjälp med NextGEN?"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/edit-thumbnail.php:164
+msgid "Select the area for the thumbnail from the picture below."
+msgstr "Välj området för miniatyren från bilden nedan."
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/tags.php:123
+msgid "Sort Tags"
+msgstr "Sortera etiketter"
+
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/module.nextgen_addgallery_page.php:105
+msgid "Cannot write to %s: new galleries cannot be created"
+msgstr "Kan inte skriva till %s: nya gallerier kan inte skapas"
+
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/templates/import_folder.php:7
+msgid "Leave blank for folder name"
+msgstr "Lämna tomt för mappnamn"
+
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:451
+msgid "{count} images were uploaded successfully."
+msgstr "{count} laddades upp."
+
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:159
+msgid "Thumbnail generation failed."
+msgstr "Generering av miniatyr misslyckades."
+
+#: products/photocrati_nextgen/modules/nextgen_xmlrpc/package.module.nextgen_xmlrpc.php:878
+msgid "No space available for image (%1$s)."
+msgstr "Inget utrymme tillgängligt för bild (%1$s)."
+
+#: products/photocrati_nextgen/modules/nextgen_xmlrpc/package.module.nextgen_xmlrpc.php:863
+msgid "Could not find image file for image (%1$s)."
+msgstr "Kunde inte hitta bildfil för bild (%1$s)."
+
+#: products/photocrati_nextgen/modules/nextgen_xmlrpc/package.module.nextgen_xmlrpc.php:925
+msgid "Failed to save modified gallery (%1$s). "
+msgstr "Misslyckades att spara ändrat galleri (%1$s). "
+
+#: products/photocrati_nextgen/modules/nextgen_xmlrpc/package.module.nextgen_xmlrpc.php:1047
+msgid "No album was specified to edit."
+msgstr "Inget album specificerades att redigera."
+
+#: products/photocrati_nextgen/modules/nextgen_xmlrpc/package.module.nextgen_xmlrpc.php:1031
+msgid "Failed to save modified album (%1$s)."
+msgstr "Misslyckades att spara ändrat album (%1$s)."
+
+#: products/photocrati_nextgen/modules/nextgen_xmlrpc/package.module.nextgen_xmlrpc.php:887
+msgid "Requested image with id (%2$s) doesn't exist (%1$s)."
+msgstr "Efterfrågad bild med ID (%2$s) finns inte (%1$s)."
+
+#: products/photocrati_nextgen/modules/nextgen_xmlrpc/package.module.nextgen_xmlrpc.php:838
+msgid "Could not remove image because image was not found (%1$s)."
+msgstr "Kunde inte ta bort bild eftersom bild inte hittades (%1$s)."
+
+#: products/photocrati_nextgen/modules/nextgen_xmlrpc/package.module.nextgen_xmlrpc.php:750
+msgid "Gallery creation failed for \"%1$s\"%2$s."
+msgstr "Misslyckades att skapa galleri för ”%1$s”%2$s."
+
+#: products/photocrati_nextgen/modules/nextgen_xmlrpc/package.module.nextgen_xmlrpc.php:237
+msgid "Authorization Failed."
+msgstr "Auktorisering misslyckades."
+
+#: products/photocrati_nextgen/modules/nextgen_xmlrpc/package.module.nextgen_xmlrpc.php:241
+msgid "No task list was specified."
+msgstr "Ingen uppgiftslista specificerades."
+
+#: products/photocrati_nextgen/modules/marketing/package.module.marketing.php:114
+#: products/photocrati_nextgen/modules/marketing/package.module.marketing.php:159
+msgid "Requires NextGEN Pro"
+msgstr "Kräver NextGEN Pro"
+
+#: products/photocrati_nextgen/modules/marketing/package.module.marketing.php:80
+msgid "View the Masonry Demo"
+msgstr "Visa demo för mosaik"
+
+#: products/photocrati_nextgen/modules/marketing/module.marketing.php:275
+msgid "Want to do even more with your albums?"
+msgstr "Vill du göra ännu mer med dina album?"
+
+#: products/photocrati_nextgen/modules/marketing/module.marketing.php:255
+msgid "Dedicated customer support and so much more!"
+msgstr "Dedikerad kundtjänst och så mycket mer?"
+
+#: products/photocrati_nextgen/modules/marketing/module.marketing.php:247
+msgid "Automated Tax Calculation"
+msgstr "Automatisk momsberäkning"
+
+#: products/photocrati_nextgen/modules/marketing/module.marketing.php:102
+#: products/photocrati_nextgen/modules/marketing/templates/display_type_settings.php:12
+msgid "Want to sell your images online?"
+msgstr "Vill du sälja dina bilder online?"
+
+#: products/photocrati_nextgen/modules/nextgen_admin/package.module.nextgen_admin.php:960
+msgid "Thank you for using NextGEN Gallery!"
+msgstr "Tack för att du använder NextGEN Gallery!"
+
+#: products/photocrati_nextgen/modules/nextgen_xmlrpc/package.module.nextgen_xmlrpc.php:950
+msgid "No gallery was specified to edit."
+msgstr "Inget galleri specificerades att redigera."
+
+#: products/photocrati_nextgen/modules/nextgen_xmlrpc/package.module.nextgen_xmlrpc.php:39
+#: products/photocrati_nextgen/modules/nextgen_xmlrpc/package.module.nextgen_xmlrpc.php:98
+#: products/photocrati_nextgen/modules/nextgen_xmlrpc/package.module.nextgen_xmlrpc.php:245
+msgid "Authentication Failed."
+msgstr "Autentisering misslyckades."
+
+#: products/photocrati_nextgen/modules/nextgen_admin/templates/nextgen_admin_page.php:72
+msgid "Save Options"
+msgstr "Spara alternativ"
+
+#: products/photocrati_nextgen/modules/nextgen_admin/templates/admin_notice.php:4
+#: products/photocrati_nextgen/modules/nextgen_admin/templates/requirement_notice.php:4
+msgid "Dismiss"
+msgstr "Avfärda"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:454
+msgid "Reset all options"
+msgstr "Återställ alla alternativ"
+
+#: products/photocrati_nextgen/modules/attach_to_post/module.attach_to_post.php:259
+msgid "Add Gallery"
+msgstr "Lägg till galleri"
+
+#: products/photocrati_nextgen/modules/attach_to_post/templates/display_tab.php:24
+msgid "Insert Gallery"
+msgstr "Infoga galleri"
+
+#: products/photocrati_nextgen/modules/attach_to_post/package.module.attach_to_post.php:631
+msgid "Insert Into Page"
+msgstr "Infoga på sida"
+
+#: products/photocrati_nextgen/modules/attach_to_post/package.module.attach_to_post.php:607
+msgid "Click to edit"
+msgstr "Klicka för att redigera"
+
+#: products/photocrati_nextgen/modules/attach_to_post/package.module.attach_to_post.php:492
+msgid "Exclude?"
+msgstr "Exkludera?"
+
+#: products/photocrati_nextgen/modules/imagify/lib/class-imagify-partner.php:535
+msgid "Go back"
+msgstr "Gå tillbaka"
+
+#: products/photocrati_nextgen/modules/imagify/lib/class-imagify-partner.php:534
+msgid "Plugin install failed."
+msgstr "Installationen av tillägget misslyckades."
+
+#: products/photocrati_nextgen/modules/imagify/lib/class-imagify-partner.php:531
+msgid "Plugin installed successfully."
+msgstr "Tillägget installerades utan problem."
+
+#: products/photocrati_nextgen/modules/nextgen_pro_upgrade/package.module.nextgen_pro_upgrade.php:74
+msgid "Social Sharing"
+msgstr "Social delning"
+
+#: products/photocrati_nextgen/modules/attach_to_post/package.module.attach_to_post.php:492
+msgid "Select one album (click in box to see available albums)."
+msgstr "Välj ett album (klicka i rutan för att se tillgängliga album)."
+
+#: products/photocrati_nextgen/modules/imagify/lib/class-imagify-partner.php:533
+msgid "Sorry, you are not allowed to do that."
+msgstr "Du har inte behörighet att göra det."
+
+#: products/photocrati_nextgen/modules/imagify/lib/class-imagify-partner.php:532
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr "Du har inte behörighet att installera tillägg på denna webbplats."
+
+#: products/photocrati_nextgen/modules/imagify/package.module.imagify.php:63
+msgid "Install and activate Imagify"
+msgstr "Installera och aktivera Imagify"
+
+#: products/photocrati_nextgen/modules/imagify/package.module.imagify.php:61
+msgid "Activate Imagify"
+msgstr "Aktivera Imagify"
+
+#: products/photocrati_nextgen/modules/imagify/package.module.imagify.php:57
+msgid "Imagify is already activated"
+msgstr "Imagify är redan aktiverad."
+
+#: products/photocrati_nextgen/modules/imagify/package.module.imagify.php:55
+msgid "Imagify has been successfully activated"
+msgstr "Imagify har aktiverats utan problem"
+
+#: products/photocrati_nextgen/modules/imagify/package.module.imagify.php:32
+#: products/photocrati_nextgen/modules/imagify/package.module.imagify.php:42
+msgid "Image Optimization"
+msgstr "Bildoptimering"
+
+#: products/photocrati_nextgen/modules/nextgen_pro_upgrade/templates/upgrade.php:17
+msgid "Unlock More Features"
+msgstr "Lås upp fler funktioner"
+
+#: products/photocrati_nextgen/modules/nextgen_gallery_display/templates/no_images_found.php:1
+msgid "no images were found"
+msgstr "inga bilder hittades"
+
+#: products/photocrati_nextgen/modules/nextgen_gallery_display/package.module.nextgen_gallery_display.php:2615
+#: products/photocrati_nextgen/modules/nextgen_gallery_display/package.module.nextgen_gallery_display.php:2626
+msgid "Select View"
+msgstr "Välj vy"
+
+#: products/photocrati_nextgen/modules/attach_to_post/package.module.attach_to_post.php:771
+msgid "Customize Display Settings"
+msgstr "Anpassa visningsinställningar"
+
+#: products/photocrati_nextgen/modules/imagify/package.module.imagify.php:51
+msgid "Imagify Website"
+msgstr "Imagify webbplats"
+
+#: products/photocrati_nextgen/modules/imagify/package.module.imagify.php:49
+msgid "More on why we recommend Imagify:"
+msgstr "Mer varför vi rekommenderar Imagify:"
+
+#: products/photocrati_nextgen/modules/imagify/package.module.imagify.php:48
+msgid "More on Imagify:"
+msgstr "Mer på Imagify:"
+
+#: products/photocrati_nextgen/modules/nextgen_pro_upgrade/templates/upgrade.php:19
+msgid "Want even more features"
+msgstr "Vill du ha ännu fler funktioner"
+
+#: products/photocrati_nextgen/modules/nextgen_pro_upgrade/templates/upgrade.php:24
+msgid "and unlock the following awesome features."
+msgstr "och lås upp följande fantastiska funktioner."
+
+#: products/photocrati_nextgen/modules/nextgen_pro_upgrade/templates/upgrade.php:23
+msgid "Upgrade your NextGEN Gallery account"
+msgstr "Uppgradera ditt NextGEN Gallery-konto"
+
+#: products/photocrati_nextgen/modules/marketing/module.marketing.php:254
+#: products/photocrati_nextgen/modules/nextgen_pro_upgrade/package.module.nextgen_pro_upgrade.php:82
+#: products/photocrati_nextgen/modules/ngglegacy/admin/overview.php:245
+msgid "Digital Downloads"
+msgstr "Digital nedladdning"
+
+#: products/photocrati_nextgen/modules/marketing/module.marketing.php:252
+#: products/photocrati_nextgen/modules/marketing/package.module.marketing.php:189
+#: products/photocrati_nextgen/modules/nextgen_pro_upgrade/package.module.nextgen_pro_upgrade.php:76
+#: products/photocrati_nextgen/modules/ngglegacy/admin/overview.php:246
+msgid "Image Protection"
+msgstr "Bildskydd"
+
+#: products/photocrati_nextgen/modules/attach_to_post/templates/display_tab.php:27
+msgid "Need a quick tutorial?"
+msgstr "Behöver du en snabb handling?"
+
+#: products/photocrati_nextgen/modules/nextgen_pro_upgrade/package.module.nextgen_pro_upgrade.php:64
+#: products/photocrati_nextgen/modules/ngglegacy/admin/overview.php:230
+msgid "Coupons"
+msgstr "Rabattkoder"
+
+#: products/photocrati_nextgen/modules/nextgen_pro_upgrade/package.module.nextgen_pro_upgrade.php:63
+msgid "Pricelists"
+msgstr "Prislistor"
+
+#: products/photocrati_nextgen/modules/nextgen_pro_upgrade/package.module.nextgen_pro_upgrade.php:62
+msgid "Auto Tax Calculations"
+msgstr "Automatiska momsberäkningar"
+
+#: products/photocrati_nextgen/modules/nextgen_pro_upgrade/package.module.nextgen_pro_upgrade.php:67
+#: products/photocrati_nextgen/modules/ngglegacy/admin/overview.php:222
+msgid "Mosaic Gallery"
+msgstr "Mosikgalleri"
+
+#: products/photocrati_nextgen/modules/nextgen_pro_upgrade/package.module.nextgen_pro_upgrade.php:40
+msgid "Extensions"
+msgstr "Utökningar"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_album/package.module.nextgen_basic_album.php:908
+msgid "Display descriptions"
+msgstr "Visa beskrivningar"
+
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:4744
+msgid "Support for PNG format is missing."
+msgstr "Stöd för PNG-format saknas."
+
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:4737
+msgid "Support for JPEG format is missing."
+msgstr "Stöd för JPEG-format saknas."
+
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:4730
+msgid "Support for GIF format is missing."
+msgstr "Stöd för GIF-format saknas."
+
+#. Author URI of the plugin
+msgid "https://www.imagely.com"
+msgstr "https://www.imagely.com"
+
+#. Author of the plugin
+msgid "Imagely"
+msgstr "Imagely"
+
+#. Plugin URI of the plugin
+msgid "https://www.imagely.com/wordpress-gallery-plugin/nextgen-gallery/"
+msgstr "https://www.imagely.com/wordpress-gallery-plugin/nextgen-gallery/"
+
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:4759
+msgid "Create Image failed. %1$s"
+msgstr "Misslyckades att skapa bild. %1$s"
+
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:4757
+msgid "Check memory limit"
+msgstr "Kontrollera minnesgräns"
+
+#: products/photocrati_nextgen/modules/widget/templates/form_gallery.php:87
+msgid "Select"
+msgstr "Select"
+
+#: products/photocrati_nextgen/modules/widget/templates/form_slideshow.php:40
+msgid "Limit"
+msgstr "Gräns"
+
+#: products/photocrati_nextgen/modules/widget/templates/form_slideshow.php:23
+msgid "All images"
+msgstr "Alla bilder"
+
+#: products/photocrati_nextgen/modules/widget/templates/form_gallery.php:98
+msgid "Only which are listed"
+msgstr "Bara de som är listade"
+
+#: products/photocrati_nextgen/modules/widget/templates/form_gallery.php:95
+msgid "Only which are not listed"
+msgstr "Bara de som inte är listade"
+
+#: products/photocrati_nextgen/modules/widget/templates/form_gallery.php:92
+msgid "All galleries"
+msgstr "Alla gallerier"
+
+#: products/photocrati_nextgen/modules/widget/templates/form_gallery.php:29
+msgid "Original images"
+msgstr "Originalbilder"
+
+#: products/photocrati_nextgen/modules/ngglegacy/view/imagebrowser-exif.php:50
+msgid "Focal Length"
+msgstr "Brännvidd"
+
+#: products/photocrati_nextgen/modules/ngglegacy/xml/media-rss.php:74
+msgid "The gallery ID=%s does not exist."
+msgstr "Galleriet med ID=%s finns inte."
+
+#: products/photocrati_nextgen/modules/ngglegacy/xml/media-rss.php:113
+msgid "The album ID=%s does not exist."
+msgstr "Albumet med ID=%s finns inte."
+
+#: products/photocrati_nextgen/modules/ngglegacy/view/imagebrowser-exif.php:38
+msgid "Meta data"
+msgstr "Metadata"
+
+#: products/photocrati_nextgen/modules/ngglegacy/nggallery.php:279
+msgid "Contribute"
+msgstr "Bidra"
+
+#: products/photocrati_nextgen/modules/ngglegacy/nggallery.php:278
+msgid "Get help"
+msgstr "Få hjälp"
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/rewrite.php:215
+#: products/photocrati_nextgen/modules/widget/package.module.widget.php:435
+msgid "Slideshow"
+msgstr "Bildspel"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/wpmu.php:81
+msgid "Enable import function"
+msgstr "Aktivera importfunktion"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:639
+#: products/photocrati_nextgen/modules/ngglegacy/admin/templates/manage_gallery/gallery_preview_image_field.php:3
+msgid "No picture"
+msgstr "Ingen bild"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:661
+#: products/photocrati_nextgen/modules/ngglegacy/admin/templates/manage_gallery/gallery_link_to_page_field.php:3
+msgid "Not linked"
+msgstr "Inte länkad"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/templates/manage_gallery/gallery_create_page_field.php:10
+msgid "Add page"
+msgstr "Lägg till sida"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/tags.php:202
+msgid "Rename"
+msgstr "Byt namn"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/tags.php:43
+msgid "Least used"
+msgstr "Minst använd"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/tags.php:44
+msgid "Alphabetical"
+msgstr "Alfabetisk"
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/rewrite.php:223
+msgid "Album"
+msgstr "Album"
+
+#: products/photocrati_nextgen/modules/widget/templates/form_slideshow.php:15
+msgid "Select Gallery"
+msgstr "Välj galleri"
+
+#: products/photocrati_nextgen/modules/widget/templates/form_gallery.php:50
+msgid "recently added"
+msgstr "nyligen tillagd"
+
+#: products/photocrati_nextgen/modules/widget/templates/form_gallery.php:42
+msgid "random"
+msgstr "slumpmässig"
+
+#: products/photocrati_nextgen/modules/widget/templates/form_gallery.php:26
+msgid "Thumbnails"
+msgstr "Miniatyrer"
+
+#: products/photocrati_nextgen/modules/widget/templates/form_gallery.php:68
+msgid "Width x Height"
+msgstr "Bredd x höjd"
+
+#: products/photocrati_nextgen/modules/widget/package.module.widget.php:70
+msgid "Add recent or random images from the galleries"
+msgstr "Lägg till senaste eller slumpmässiga bilder från gallerierna"
+
+#: products/photocrati_nextgen/modules/ngglegacy/xml/media-rss.php:50
+msgid "No galleries have been yet created."
+msgstr "Inga gallerier har skapats än."
+
+#: products/photocrati_nextgen/modules/ngglegacy/nggallery.php:163
+msgid "Separate picture tags with commas."
+msgstr "Separata bildetiketter med kommatecken."
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/post-thumbnail.php:198
+#: products/photocrati_nextgen/modules/ngglegacy/lib/post-thumbnail.php:199
+msgid "Set featured image"
+msgstr "Ange utvald bild"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/wpmu.php:77
+msgid "Allow users to upload zip folders."
+msgstr "Tillåt användare att ladda upp zip-mappar."
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/wpmu.php:62
+msgid "Gallery path"
+msgstr "Galleriets sökväg"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/roles.php:44
+msgid "Manage gallery"
+msgstr "Hantera gallerier"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/roles.php:64
+msgid "Change options"
+msgstr "Ändra alternativ"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/roles.php:60
+msgid "Change style"
+msgstr "Ändra stil"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/showmeta.php:35
+#: products/photocrati_nextgen/modules/ngglegacy/admin/showmeta.php:64
+#: products/photocrati_nextgen/modules/ngglegacy/admin/showmeta.php:94
+#: products/photocrati_nextgen/modules/ngglegacy/admin/showmeta.php:121
+msgid "Value"
+msgstr "Värde"
+
+#: products/photocrati_nextgen/modules/widget/templates/form_gallery.php:107
+msgid "Gallery ID"
+msgstr "Galleri-ID"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/wpmu.php:57
+msgid "Network Options"
+msgstr "Nätverksalternativ"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/tags.php:208
+msgid "Delete Tag"
+msgstr "Ta bort etikett"
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/tags.php:247
+msgid "No slug edited."
+msgstr "Ingen permalänk redigerad."
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/wpmu.php:89
+msgid "Allow users to change the roles for other blog authors."
+msgstr "Tillåt användare att ändra roller för andra bloggförfattare."
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/wpmu.php:87
+msgid "Enable roles/capabilities"
+msgstr "Aktivera roller/behörigheter"
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/ngg-db.php:266
+#: products/photocrati_nextgen/modules/ngglegacy/lib/ngg-db.php:267
+msgid "Album overview"
+msgstr "Albumöversikt"
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/post-thumbnail.php:226
+#: products/photocrati_nextgen/modules/nextgen_block/static/src/components/ngg-post-thumbnail.jsx:124
+msgid "Remove featured image"
+msgstr "Ta bort utvald bild"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/wpmu.php:83
+msgid "Allow users to import images folders from the server."
+msgstr "Tillåt användare att importera bildmappar från servern."
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/wpmu.php:65
+msgid "The default setting should be %s"
+msgstr "Standardinställningen ska vara %s"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/thumbnails-template.php:103
+msgid "These are maximum values"
+msgstr "Dessa är maximala värden"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/templates/manage_gallery/gallery_create_page_field.php:3
+msgid "Main Page (no parent)"
+msgstr "Huvudsida (ingen överordnad)"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/tags.php:42
+msgid "Most popular"
+msgstr "Mest populär"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/showmeta.php:116
+msgid "XMP Data"
+msgstr "XMP-data"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/showmeta.php:89
+msgid "IPTC Data"
+msgstr "IPTC-data"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/showmeta.php:58
+msgid "EXIF Data"
+msgstr "EXIF-data"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/showmeta.php:29
+msgid "Meta Data"
+msgstr "Metadata"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/rotate.php:92
+msgid "Flip horizontally"
+msgstr "Vänd horisontellt"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/rotate.php:91
+msgid "Flip vertically"
+msgstr "Vänd vertikalt"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/rotate.php:59
+msgid "Image rotated"
+msgstr "Bild roterad"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/roles.php:48
+msgid "Manage others gallery"
+msgstr "Hantera andra gallerier"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/roles.php:40
+msgid "Add gallery / Upload images"
+msgstr "Lägg till galleri/ladda upp bilder"
+
+#: products/photocrati_nextgen/modules/widget/templates/form_mediarss.php:19
+msgid "Show Media RSS icon"
+msgstr "Visa Media RSS-ikon"
+
+#: products/photocrati_nextgen/modules/widget/templates/form_gallery.php:114
+msgid "Gallery IDs, separated by commas."
+msgstr "Galleri-ID, separerade med kommatecken."
+
+#: products/photocrati_nextgen/modules/widget/package.module.widget.php:319
+#: products/photocrati_nextgen/modules/widget/package.module.widget.php:346
+msgid "NextGEN Slideshow"
+msgstr "NextGEN bildspel"
+
+#: products/photocrati_nextgen/modules/widget/package.module.widget.php:269
+msgid "Media RSS"
+msgstr "Media RSS"
+
+#: products/photocrati_nextgen/modules/widget/package.module.widget.php:262
+msgid "NextGEN Media RSS"
+msgstr "NextGEN Media RSS"
+
+#: products/photocrati_nextgen/modules/widget/package.module.widget.php:261
+msgid "Widget that displays Media RSS links for NextGEN Gallery."
+msgstr "Widget som visar Media RSS-länkar för NextGEN Gallery."
+
+#: products/photocrati_nextgen/modules/widget/package.module.widget.php:71
+#: products/photocrati_nextgen/modules/widget/package.module.widget.php:98
+msgid "NextGEN Widget"
+msgstr "NextGEN-widget"
+
+#: products/photocrati_nextgen/modules/ngglegacy/xml/media-rss.php:120
+msgid "Invalid MediaRSS command"
+msgstr "Ogiltigt MediaRSS-kommando"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:903
+msgid "Updated successfully"
+msgstr "Uppdaterat utan problem"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/wpmu.php:75
+msgid "Enable zip upload option"
+msgstr "Aktivera alternativ för för zip-uppladdning"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/wpmu.php:71
+msgid "Should work if the gallery is bellow the blog.dir"
+msgstr "Ska fungera om galleriet ligger under blog.dir"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/wpmu.php:64
+msgid "This is the default path for all blogs. With the placeholder %BLOG_ID% you can organize the folder structure better."
+msgstr "Detta är standardsökvägen för alla bloggar. Med platshållaren %BLOG_ID% kan du organisera mappstrukturen bättre."
+
+#: products/photocrati_nextgen/modules/ngglegacy/view/imagebrowser-exif.php:58
+msgid "Date / Time"
+msgstr "Datum/tid"
+
+#: products/photocrati_nextgen/modules/ngglegacy/view/imagebrowser-exif.php:42
+msgid "Camera / Type"
+msgstr "Kamera/typ"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/showmeta.php:52
+msgid "No meta data saved"
+msgstr "Ingen metadata sparad"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/showmeta.php:82
+msgid "No exif data"
+msgstr "Ingen exif-data"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/tags.php:103
+msgid "Manage image tags"
+msgstr "Hantera bildetiketter"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/showmeta.php:34
+#: products/photocrati_nextgen/modules/ngglegacy/admin/showmeta.php:63
+#: products/photocrati_nextgen/modules/ngglegacy/admin/showmeta.php:93
+#: products/photocrati_nextgen/modules/ngglegacy/admin/showmeta.php:120
+msgid "Tag"
+msgstr "Etikett"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/tags.php:171
+msgid "Next tags"
+msgstr "Nästa etiketter"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/tags.php:183
+msgid "Rename Tag"
+msgstr "Namnändra etikett"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/tags.php:158
+#: products/photocrati_nextgen/modules/ngglegacy/admin/tags.php:162
+#: products/photocrati_nextgen/modules/ngglegacy/admin/tags.php:175
+msgid "Previous tags"
+msgstr "Föregående etiketter"
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/tags.php:95
+msgid "No valid new tag."
+msgstr "Ingen giltig ny etikett."
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/tags.php:86
+msgid "No tag renamed."
+msgstr "Ingen etikett namnändrad."
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/tags.php:35
+msgid "No new tag specified!"
+msgstr "Ingen ny etikett specifierad!"
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/tags.php:188
+msgid "No tag deleted."
+msgstr "Ingen etikett borttagen."
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/tags.php:165
+msgid "No tag specified!"
+msgstr "Ingen etikett specifierad!"
+
+#: products/photocrati_nextgen/modules/ngglegacy/nggallery.php:161
+msgid "Picture tag"
+msgstr "Bildetikett"
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/tags.php:112
+msgid "No objects (post/page) found for specified old tags."
+msgstr "Inga objekt (inlägg/sida) hittades för angivna gamla etiketter."
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/tags.php:50
+msgid "No new/old valid tag specified!"
+msgstr "Ingen ny/gammal giltig etikett specifierad!"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/roles.php:27
+msgid "Select the lowest role which should be able to access the following capabilities. NextGEN Gallery supports the standard roles from WordPress."
+msgstr "Välj den lägsta roll som ska kunna få åtkomst till följande behörigheter. NextGEN Gallery stöder standardroller från WordPress."
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/roles.php:52
+msgid "Manage tags"
+msgstr "Hantera etiketter"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/rotate.php:61
+msgid "Error rotating thumbnail"
+msgstr "Fel vid rotering av miniatyr"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/tags.php:199
+msgid "New tag name(s):"
+msgstr "Nytt etikettnamn:"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/tags.php:195
+msgid "Tag(s) to rename:"
+msgstr "Etikett/etiketter att namnändra:"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/tags.php:118
+msgid "Go"
+msgstr "Kör"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/tags.php:241
+msgid "Tag(s) to match:"
+msgstr "Etikett/etiketter att matcha:"
+
+#: products/photocrati_nextgen/modules/ngglegacy/nggallery.php:162
+msgid "Picture tag: %2$l."
+msgstr "Bildetikett: %2$l."
+
+#: products/photocrati_nextgen/modules/widget/templates/form_mediarss.php:30
+msgid "Show the Media RSS link"
+msgstr "Visa Media RSS-länken"
+
+#: products/photocrati_nextgen/modules/widget/templates/form_mediarss.php:36
+msgid "Text for Media RSS link"
+msgstr "Text för Media RSS-länk"
+
+#: products/photocrati_nextgen/modules/ngglegacy/xml/media-rss.php:105
+msgid "No album ID has been provided as parameter"
+msgstr "Inget album-ID har tillhandahållits som parameter"
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/tags.php:190
+msgid "%1s tag(s) deleted."
+msgstr "%1s etikett/etiketter borttagna."
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/tags.php:141
+msgid "No tag merged."
+msgstr "Ingen etikett slogs samman."
+
+#: products/photocrati_nextgen/modules/ngglegacy/lib/post-thumbnail.php:60
+#: products/photocrati_nextgen/modules/ngglegacy/lib/post-thumbnail.php:61
+msgid "Set NextGEN featured image"
+msgstr "Ställ in utvald bild för NexGen"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/tags.php:220
+msgid "Tag(s) to delete:"
+msgstr "Etikett/etiketter att ta bort:"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/roles.php:36
+msgid "Use TinyMCE Button / Upload tab"
+msgstr "Använd TinyMCE-knapp/uppladdningsflik"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/tags.php:111
+msgid "Search Tags"
+msgstr "Sök etiketter"
+
+#: products/photocrati_nextgen/modules/attach_to_post/templates/display_tab.php:24
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:201
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:286
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:338
+msgid "Save Changes"
+msgstr "Spara ändringar"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:231
+msgid "All"
+msgstr "Alla"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/media-upload.php:300
+msgid "Size"
+msgstr "Storlek"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:661
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:825
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:153
+msgid "ID"
+msgstr "ID"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:680
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:467
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:527
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:596
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:376
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:420
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:464
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:511
+msgid "OK"
+msgstr "OK"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:682
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:471
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:531
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:600
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:379
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:423
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:467
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:514
+msgid "Cancel"
+msgstr "Avbryt"
+
+#: products/photocrati_nextgen/modules/attach_to_post/module.attach_to_post.php:372
+#: products/photocrati_nextgen/modules/nextgen_block/module.nextgen_block.php:60
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:357
+#: products/photocrati_nextgen/modules/ngglegacy/admin/tags.php:248
+msgid "Edit"
+msgstr "Redigera"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:180
+msgid "Click to toggle"
+msgstr "Klicka för att växla"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:297
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:299
+msgid "View"
+msgstr "Visa"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:503
+#: products/photocrati_nextgen/modules/ngglegacy/admin/edit-thumbnail.php:185
+#: products/photocrati_nextgen/modules/ngglegacy/admin/rotate.php:97
+#: products/photocrati_nextgen/modules/ngglegacy/admin/wpmu.php:93
+msgid "Update"
+msgstr "Uppdatera"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/media-upload.php:268
+msgid "Hide"
+msgstr "Dölj"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:522
+msgid "Add"
+msgstr "Lägg till"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:826
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:158
+#: products/photocrati_nextgen/modules/ngglegacy/admin/media-upload.php:304
+msgid "Thumbnail"
+msgstr "Miniatyr"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:1111
+msgid "Go to the first page"
+msgstr "Gå till första sidan"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:1118
+msgid "Go to the previous page"
+msgstr "Gå till föregående sida"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:1138
+msgid "Go to the next page"
+msgstr "Gå till nästa sida"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:1145
+msgid "Go to the last page"
+msgstr "Gå till sista sidan"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:356
+msgid "Delete image"
+msgstr "Ta bort bild"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/media-upload.php:267
+#: products/photocrati_nextgen/modules/widget/templates/form_gallery.php:15
+msgid "Show"
+msgstr "Visa"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/media-upload.php:324
+msgid "Insert into Post"
+msgstr "Infoga i inlägget"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/media-upload.php:287
+msgid "Alignment"
+msgstr "Justering"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:663
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:828
+#: products/photocrati_nextgen/modules/ngglegacy/admin/media-upload.php:283
+msgid "Description"
+msgstr "Beskrivning"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:780
+msgid "Name"
+msgstr "Namn"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:171
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:218
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:241
+#: products/photocrati_nextgen/modules/ngglegacy/admin/edit-thumbnail.php:19
+#: products/photocrati_nextgen/modules/ngglegacy/admin/edit-thumbnail.php:22
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:614
+#: products/photocrati_nextgen/modules/ngglegacy/admin/rotate.php:17
+#: products/photocrati_nextgen/modules/ngglegacy/admin/rotate.php:20
+#: products/photocrati_nextgen/modules/ngglegacy/admin/showmeta.php:10
+#: products/photocrati_nextgen/modules/ngglegacy/admin/showmeta.php:13
+msgid "Cheatin&#8217; uh?"
+msgstr "Fuskar du?"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/media-upload.php:335
+msgid "Save all changes"
+msgstr "Spara alla ändringar"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/media-upload.php:204
+msgid "No gallery"
+msgstr "Inget galleri"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:943
+msgid "created"
+msgstr "skapad"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:681
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:684
+msgid "Rotate images"
+msgstr "Rotera bilder"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:421
+msgid "Link to page:"
+msgstr "Länk till sida:"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:406
+msgid "Gallery path:"
+msgstr "Sökväg till galleri:"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:400
+msgid "Description:"
+msgstr "Beskrivning:"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:338
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:339
+msgid "Recover"
+msgstr "Återskapa"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:337
+msgid "Recover image from backup"
+msgstr "Återskapa bild från säkerhetskopia"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:325
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:326
+msgid "Rotate"
+msgstr "Rotera"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:307
+msgid "Show meta data"
+msgstr "Visa metadata"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-sort.php:141
+msgid "Back to gallery"
+msgstr "Tillbaka till galleri"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-sort.php:121
+msgid "Sort Gallery"
+msgstr "Sortera galleri"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-sort.php:48
+msgid "Sort order changed"
+msgstr "Sorteringsordning ändrad"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:261
+msgid "Rotate images clockwise"
+msgstr "Rotera bilder medurs"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:722
+msgid "Overwrite"
+msgstr "Skriv över"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:579
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:494
+msgid "Set fix dimension"
+msgstr "Ange fasta dimensioner"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:570
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:486
+msgid "Width x height (in pixel)"
+msgstr "Bredd  x höjd (i pixlar)"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:519
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:455
+msgid "Width x height (in pixel). NextGEN Gallery will keep ratio size"
+msgstr "Bredd x höjd (i pixlar). NextGEN Gallery behåller proportioner"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:506
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:442
+msgid "Resize Images to"
+msgstr "Storleksändra bilder till"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:445
+msgid "New Gallery"
+msgstr "Nytt galleri"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:276
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:273
+msgid "Apply"
+msgstr "Verkställ"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:115
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:268
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:257
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:726
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:645
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:729
+msgid "Resize images"
+msgstr "Storleksändra bilder"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/functions.php:675
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:119
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:267
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:256
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:730
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:664
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:745
+msgid "Create new thumbnails"
+msgstr "Skapa nya miniatyrer"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/functions.php:680
+msgid "Edit gallery"
+msgstr "Redigera galleri"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:782
+#: products/photocrati_nextgen/modules/ngglegacy/lib/rewrite.php:229
+msgid "Page"
+msgstr "Sida"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:573
+msgid "Select gallery"
+msgstr "Välj galleri"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:520
+msgid "Add new album"
+msgstr "Lägg till nytt album"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:436
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:508
+#: products/photocrati_nextgen/modules/ngglegacy/admin/roles.php:56
+msgid "Edit Album"
+msgstr "Redigera album"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:486
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:596
+msgid "Select album"
+msgstr "Välj album"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:488
+msgid "No album selected"
+msgstr "Inget album valt"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:394
+msgid "Title:"
+msgstr "Rubrik:"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:317
+msgid "Edit thumb"
+msgstr "Redigera miniatyr"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:316
+msgid "Customize thumbnail"
+msgstr "Anpassa miniatyr"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:211
+msgid "Exclude ?"
+msgstr "Exkludera?"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-sort.php:150
+msgid "Unsorted"
+msgstr "Osorterade"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-sort.php:136
+msgid "Update Sort Order"
+msgstr "Uppdatera sorteringsordning"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:265
+msgid "Add tags"
+msgstr "Lägg till etiketter"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:259
+msgid "Delete images"
+msgstr "Ta bort bilder"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:250
+msgid "Images per page:"
+msgstr "Bilder per sida:"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:230
+msgid "200"
+msgstr "200"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:229
+msgid "100"
+msgstr "100"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:228
+msgid " 75"
+msgstr " 75"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:227
+msgid " 50"
+msgstr " 50"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:226
+msgid " 25"
+msgstr " 25"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:196
+msgid "Scan Folder for new images"
+msgstr "Skanna mapp efter nya bilder"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:266
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:718
+msgid "Delete tags"
+msgstr "Ta bort etiketter"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:714
+msgid "Add new tags"
+msgstr "Lägg till nya etiketter"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:51
+msgid "Gallery not found."
+msgstr "Galleriet hittades inte."
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:456
+msgid "Allowed characters for file and folder names are"
+msgstr "Tillåtna tecken för filer och mappnamn är"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:107
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:698
+msgid "No images selected"
+msgstr "Inga bilder valda"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:229
+msgid "Album deleted"
+msgstr "Album borttaget"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/media-upload.php:306
+msgid "Full size"
+msgstr "Full storlek"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/media-upload.php:321
+msgid "Use as featured image"
+msgstr "Använd som utvald bild"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/media-upload.php:294
+msgid "Center"
+msgstr "Centrerat"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/media-upload.php:273
+msgid "Image ID:"
+msgstr "Bild-ID:"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:1134
+msgctxt "paging"
+msgid "%1$s of %2$s"
+msgstr "%1$s av %2$s"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:709
+msgid "Pictures deleted successfully "
+msgstr "Bilder togs bort utan problem"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:433
+msgid "Create new page:"
+msgstr "Skapa ny sida:"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:427
+msgid "Preview image:"
+msgstr "Förhandsgranska bild:"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:422
+msgid "Albums will link this gallery to the selected page"
+msgstr "Album kommer att länka det här galleriet till den valda sidan"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:308
+msgid "Meta"
+msgstr "Meta"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:88
+msgid "deleted successfully"
+msgstr "borttaget utan problem"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:398
+msgid "Select the destination gallery:"
+msgstr "Välj målgalleri:"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:280
+msgid "Sort gallery"
+msgstr "Sortera galleri"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:452
+msgid "Create a new , empty gallery below the folder"
+msgstr "Skapa ett nytt, tomt galleri under mapp"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:270
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:258
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:569
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:687
+msgid "Recover from backup"
+msgstr "Återskapa från säkerhetskopia"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:269
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:260
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:579
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:713
+msgid "Import metadata"
+msgstr "Importera metadata"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:264
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:254
+msgid "Bulk actions"
+msgstr "Massåtgärder"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:216
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:219
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:117
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:128
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:132
+msgid "Search Images"
+msgstr "Sök bilder"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:172
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:285
+msgid "Add new gallery"
+msgstr "Lägg till nytt galleri"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/functions.php:678
+msgid "%s picture successfully added"
+msgid_plural "%s pictures successfully added"
+msgstr[0] "%s bild har lagts till"
+msgstr[1] "%s bilder har lagts till"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/functions.php:639
+msgid "Gallery <strong>%s</strong> successfully created!"
+msgid_plural "Galleries <strong>%s</strong> successfully created!"
+msgstr[0] "Galleri <strong>%s</strong> skapades utan problem!"
+msgstr[1] "Gallerier <strong>%s</strong> skapades utan problem!"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/functions.php:631
+msgid "Database error. Could not add gallery!"
+msgstr "Databasfel. Kunde inte lägga till galleri!"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/functions.php:612
+msgid "Directory <strong>%s</strong> contains no pictures"
+msgstr "Katalog <strong>%s</strong> innehåller inga bilder"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/functions.php:502
+msgid "(Error : Couldn't not update meta data)"
+msgstr "(Fel: Kunde inte uppdatera metadata)"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/functions.php:511
+msgid "(Error : Couldn't not find image)"
+msgstr "(Fel: Kunde inte hitta bild)"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/functions.php:495
+msgid "(Error : Couldn't not update data base)"
+msgstr "(Fel: Kunde inte uppdatera databas)"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/functions.php:94
+msgid "with permission 777 manually !"
+msgstr "med behörighet 777 manuellt!"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/functions.php:94
+msgid "and the thumbnails directory"
+msgstr "och miniatyrernas katalog"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/functions.php:93
+msgid "If you have problems, please create directory"
+msgstr "Om du har problem, skapa en katalog"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/functions.php:83
+msgid "is not writeable !"
+msgstr "är inte skrivbar!"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/functions.php:79
+#: products/photocrati_nextgen/modules/ngglegacy/admin/functions.php:88
+msgid "Unable to create directory "
+msgstr "Det går inte att skapa katalog"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/functions.php:56
+msgid "Check this link, if you didn't know how to set the permission :"
+msgstr "Kolla denna länk om du inte vet hur du ställer in behörighet:"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/functions.php:55
+msgid "didn't exist. Please create first the main gallery folder "
+msgstr "finns inte. Skapa först huvudgallerimappen"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/functions.php:55
+#: products/photocrati_nextgen/modules/ngglegacy/admin/functions.php:83
+msgid "Directory"
+msgstr "Katalog"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/functions.php:44
+msgid "No valid gallery name!"
+msgstr "Inget giltigt gallerinamn!"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/edit-thumbnail.php:168
+msgid "Select the area for the thumbnail from the picture on the left."
+msgstr "Välj området för miniatyr från bilden till vänster."
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/edit-thumbnail.php:148
+msgid "Thumbnail updated"
+msgstr "Miniatyr uppdaterad"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/edit-thumbnail.php:126
+msgid "Select with the mouse the area for the new thumbnail"
+msgstr "Välj med musen området för den nya miniatyren"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:670
+msgid "There are no pages to link to"
+msgstr "Det finns inga sidor att länka till"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:651
+msgid "Page Link to"
+msgstr "Sida länkas till"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:638
+msgid "Select a preview image:"
+msgstr "Välj en förhandsgranskningsbild:"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:632
+msgid "Album description:"
+msgstr "Albumbeskrivning:"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:626
+msgid "Album name:"
+msgstr "Albumnamn:"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:561
+msgid "No album selected!"
+msgstr "Inget album valt!"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:548
+msgid "Album ID"
+msgstr "Album-ID"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:533
+msgid "Show / hide used galleries"
+msgstr "Visa/dölj använda gallerier"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:211
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:255
+msgid "Updated Successfully"
+msgstr "Uppdatering lyckades"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/admin.php:202
+msgid "A failure occurred"
+msgstr "Ett fel uppstod"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:604
+msgid "Gallery deleted successfully "
+msgstr "Galleri togs bort utan problem"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:262
+msgid "Rotate images counter-clockwise"
+msgstr "Rotera bilder moturs"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:125
+msgid ""
+"You are about to start the bulk edit for %s galleries \n"
+" \n"
+" 'Cancel' to stop, 'OK' to proceed."
+msgstr ""
+"Du är på väg att starta bulkredigeringen för %s gallerier \n"
+" \n"
+" ”Avbryt” för att sluta, ”OK” för att fortsätta."
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/install.php:72
+msgid "NextGEN Gallery : Tables could not created, please check your database settings"
+msgstr "NextGEN Gallery: Tabeller kunde inte skapas, kolla dina databasinställningar"
+
+#: nggallery.php:640
+msgid "Sorry, NextGEN Gallery works only with a role called administrator"
+msgstr "Tyvärr, NextGEN Gallery fungerar bara med en roll som heter administratör"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:1095
+msgid "1 item"
+msgid_plural "%s items"
+msgstr[0] "1 objekt"
+msgstr[1] "%s objekt"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:735
+msgid ""
+"You are about to start the bulk edit for %s images \n"
+" \n"
+" 'Cancel' to stop, 'OK' to proceed."
+msgstr ""
+"Du är på väg att starta bulkredigeringen för %s bilder \n"
+" \n"
+"”Avbryt” för att sluta, ”OK” för att fortsätta."
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:266
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:255
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:574
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:690
+msgid "Set watermark"
+msgstr "Ställ in vattenstämpel"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:587
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:502
+msgid "Ignore the aspect ratio, no portrait thumbnails"
+msgstr "Ignorera bildförhållandet, inga stående miniatyrer"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:1127
+msgid "Current page"
+msgstr "Nuvarande sida"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:838
+msgid "Tags changed"
+msgstr "Etiketter ändrade"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-sort.php:149
+msgid "Presort"
+msgstr "Försortera"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:829
+msgid "Tags (comma separated list)"
+msgstr "Etiketter (kommaseparerad lista)"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:363
+msgid "Enter the tags"
+msgstr "Ange etiketterna"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:267
+msgid "Overwrite tags"
+msgstr "Skriv över etiketter"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:264
+msgid "Move to..."
+msgstr "Flytta till…"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:263
+msgid "Copy to..."
+msgstr "Kopiera till…"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:710
+msgid "Move image to..."
+msgstr "Flytta bild till…"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:706
+msgid "Copy image to..."
+msgstr "Kopiera bild till…"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:58
+msgid "Sorry, you have no access here"
+msgstr "Tyvärr, du har ingen åtkomst här"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/functions.php:603
+msgid "Directory <strong>%s</strong> doesn&#96;t exist!"
+msgstr "Katalog <strong>%s</strong> finns inte!"
+
+#: products/photocrati_nextgen/modules/attach_to_post/module.attach_to_post.php:373
+#: products/photocrati_nextgen/modules/nextgen_block/module.nextgen_block.php:61
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:515
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:265
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:357
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:358
+#: products/photocrati_nextgen/modules/ngglegacy/admin/tags.php:223
+msgid "Delete"
+msgstr "Ta bort"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:535
+msgid "Minimize the widget content"
+msgstr "Minimera widget-innehåll"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:534
+msgid "Maximize the widget content"
+msgstr "Maximera widget-innehåll"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/edit-thumbnail.php:153
+msgid "Error updating thumbnail"
+msgstr "Fel vid uppdatering av miniatyr"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/functions.php:322
+msgid "Error while rotating image."
+msgstr "Fel vid rotering av bild."
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/functions.php:240
+msgid "Error while resizing image."
+msgstr "Fel vid storleksändring av bild."
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/functions.php:187
+msgid "Error while creating thumbnail."
+msgstr "Fel vid skapande av miniatyr."
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/functions.php:356
+msgid "Error while applying watermark to image."
+msgstr "Fel vid tillämpning av vattenstämpel på bild."
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:665
+msgid "Page ID"
+msgstr "Sid-ID"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:107
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "Sökresultat för &#8220;%s&#8221;"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:103
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:112
+msgid "Operation successful. Please clear your browser cache."
+msgstr "Operation lyckades. Rensa webbläsarens cache."
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/media-upload.php:217
+msgid "Select &#187;"
+msgstr "Välj &#187;"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/media-upload.php:308
+msgid "Singlepic"
+msgstr "En bild"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:410
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:328
+msgid "No entries found"
+msgstr "Inga inlägg hittades"
+
+#. Plugin Name of the plugin
+#: products/photocrati_nextgen/modules/attach_to_post/module.attach_to_post.php:371
+#: products/photocrati_nextgen/modules/attach_to_post/package.module.attach_to_post.php:601
+#: products/photocrati_nextgen/modules/nextgen_block/module.nextgen_block.php:63
+#: products/photocrati_nextgen/modules/ngglegacy/admin/admin.php:73
+#: products/photocrati_nextgen/modules/ngglegacy/admin/admin.php:74
+#: products/photocrati_nextgen/modules/ngglegacy/admin/media-upload.php:11
+#: products/photocrati_nextgen/modules/nextgen_block/static/src/block.jsx:12
+msgid "NextGEN Gallery"
+msgid_plural "NextGen Galleries"
+msgstr[0] "NextGEN Gallery"
+msgstr[1] ""
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/overview.php:27
+msgid "Welcome to NextGEN Gallery"
+msgstr "Välkommen till NextGEN Gallery"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_gallery/templates/slideshow/nextgen_basic_slideshow_settings_gallery_dimensions.php:23
+#: products/photocrati_nextgen/modules/nextgen_basic_singlepic/package.module.nextgen_basic_singlepic.php:183
+#: products/photocrati_nextgen/modules/nextgen_basic_singlepic/templates/nextgen_basic_singlepic_settings_dimensions.php:20
+#: products/photocrati_nextgen/modules/widget/templates/form_slideshow.php:53
+msgid "Height"
+msgstr "Höjd"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/admin.php:80
+#: products/photocrati_nextgen/modules/ngglegacy/admin/admin.php:111
+msgid "Overview"
+msgstr "Översikt"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:118
+msgid "Categories"
+msgstr "Kategorier"
+
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:4467
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:473
+msgid "Subject"
+msgstr "Ämne"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_gallery/templates/slideshow/nextgen_basic_slideshow_settings_gallery_dimensions.php:15
+#: products/photocrati_nextgen/modules/nextgen_basic_singlepic/package.module.nextgen_basic_singlepic.php:183
+#: products/photocrati_nextgen/modules/nextgen_basic_singlepic/templates/nextgen_basic_singlepic_settings_dimensions.php:13
+#: products/photocrati_nextgen/modules/widget/templates/form_slideshow.php:65
+msgid "Width"
+msgstr "Bredd"
+
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:4467
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:493
+msgid "Format"
+msgstr "Format"
+
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:4467
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:481
+msgid "City"
+msgstr "Ort"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:330
+msgid "Miscellaneous"
+msgstr "Övrigt"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:103
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-sort.php:151
+msgid "Image ID"
+msgstr "Bild-ID"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_singlepic/package.module.nextgen_basic_singlepic.php:191
+msgid "Top"
+msgstr "Toppen"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_singlepic/package.module.nextgen_basic_singlepic.php:211
+#: products/photocrati_nextgen/modules/ngglegacy/admin/media-upload.php:292
+msgid "Left"
+msgstr "Vänster"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_singlepic/package.module.nextgen_basic_singlepic.php:211
+#: products/photocrati_nextgen/modules/ngglegacy/admin/media-upload.php:296
+msgid "Right"
+msgstr "Höger"
+
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:4467
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:490
+msgid "Contact"
+msgstr "Kontakt"
+
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:4467
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:485
+msgid "Country"
+msgstr "Land"
+
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:4467
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:482
+msgid "Location"
+msgstr "Plats"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/admin.php:201
+msgid "Unexpected Error"
+msgstr "Oväntat fel"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_gallery/package.module.nextgen_basic_gallery.php:382
+msgid "Interval"
+msgstr "Intervall"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_gallery/package.module.nextgen_basic_gallery.php:416
+msgid "Thumbnail link text"
+msgstr "Länktext för miniatyrer"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_gallery/package.module.nextgen_basic_gallery.php:406
+msgid "Show thumbnail link"
+msgstr "Visa miniatyrlänk"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_gallery/package.module.nextgen_basic_gallery.php:453
+msgid "Images per page"
+msgstr "Bilder per sida"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_gallery/package.module.nextgen_basic_gallery.php:453
+msgid "0 will display all images at once"
+msgstr "0 visar alla bilder samtidigt"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_gallery/package.module.nextgen_basic_gallery.php:463
+msgid "Number of columns to display"
+msgstr "Antal kolumner som ska visas"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_imagebrowser/templates/nextgen_basic_imagebrowser.php:65
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:88
+#: products/photocrati_nextgen/modules/ngglegacy/lib/rewrite.php:220
+#: products/photocrati_nextgen/modules/ngglegacy/view/imagebrowser-caption.php:31
+#: products/photocrati_nextgen/modules/ngglegacy/view/imagebrowser-exif.php:35
+#: products/photocrati_nextgen/modules/ngglegacy/view/imagebrowser.php:31
+msgid "Picture"
+msgstr "Bild"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_imagebrowser/templates/nextgen_basic_imagebrowser.php:51
+#: products/photocrati_nextgen/modules/ngglegacy/view/imagebrowser-caption.php:26
+#: products/photocrati_nextgen/modules/ngglegacy/view/imagebrowser-exif.php:30
+#: products/photocrati_nextgen/modules/ngglegacy/view/imagebrowser.php:26
+msgid "Back"
+msgstr "Tillbaka"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_singlepic/package.module.nextgen_basic_singlepic.php:187
+msgid "Link"
+msgstr "Länk"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_singlepic/package.module.nextgen_basic_singlepic.php:191
+msgid "Link target"
+msgstr "Länkmål"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_tagcloud/package.module.nextgen_basic_tagcloud.php:139
+msgid "Display type"
+msgstr "Visa typ"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_templates/package.module.nextgen_basic_templates.php:173
+msgid "No template selected"
+msgstr "Inga mallar valda"
+
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:4179
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:136
+msgid " mm"
+msgstr " mm"
+
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:4187
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:142
+msgid " sec"
+msgstr "sek"
+
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:4467
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:463
+msgid "Camera"
+msgstr "Kamera"
+
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:4467
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:468
+msgid "ISO"
+msgstr "ISO"
+
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:4467
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:475
+msgid "Edit Status"
+msgstr "Redigera status"
+
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:4467
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:476
+msgid "Category"
+msgstr "Kategori"
+
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:4467
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:477
+msgid "Keywords"
+msgstr "Nyckelord"
+
+#: products/photocrati_nextgen/modules/nextgen_gallery_display/templates/alt_view_link_text.php:15
+#: products/photocrati_nextgen/modules/nextgen_gallery_display/templates/return_link_text.php:15
+msgid "link text"
+msgstr "länktext"
+
+#: products/photocrati_nextgen/modules/nextgen_gallery_display/package.module.nextgen_gallery_display.php:2079
+msgid "Recent Images"
+msgstr "Senaste bilder"
+
+#: products/photocrati_nextgen/modules/nextgen_gallery_display/package.module.nextgen_gallery_display.php:2072
+msgid "Random Images"
+msgstr "Slumpmässiga bilder"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/module.nextgen_other_options.php:73
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:390
+msgid "Other Options"
+msgstr "Andra alternativ"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:95
+msgid "Image Options"
+msgstr "Bildalternativ"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/admin.php:200
+msgid "You do not have the correct permission"
+msgstr "Du har inte korrekt behörighet"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/admin.php:93
+msgid "Network settings"
+msgstr "Nätverksinställningar"
+
+#: products/photocrati_nextgen/modules/nextgen_xmlrpc/package.module.nextgen_xmlrpc.php:1470
+msgid "Sorry, you must be able to manage galleries"
+msgstr "Tyvärr, du måste kunna hantera gallerier"
+
+#: products/photocrati_nextgen/modules/nextgen_settings/module.nextgen_settings.php:77
+msgid "Related Images"
+msgstr "Relaterade bilder"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:679
+msgid "Position:"
+msgstr "Position:"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:679
+msgid "Preview of saved settings:"
+msgstr "Förhandsgranskning av sparade inställningar:"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:679
+msgid "Refresh preview image"
+msgstr "Uppdatera förhandsgranskningsbilden"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:654
+msgid "Text:"
+msgstr "Text:"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:644
+msgid "Image URL:"
+msgstr "URL för bild:"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:533
+msgid "Adjust Thumbnail Quality?"
+msgstr "Justera miniatyrkvaliteten?"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:533
+msgid "When generating thumbnails, what image dimensions do you desire?"
+msgstr "När du genererar miniatyrer, vilka bilddimensioner vill du ha?"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:533
+msgid "When generating thumbnails, what image quality do you desire?"
+msgstr "När du genererar miniatyrer, vilken bildkvalitet vill du ha?"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:528
+msgid "Thumbnail Options"
+msgstr "Miniatyralternativ"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:679
+msgid "(Hide Customization Options)"
+msgstr "(Dölj anpassningsalternativ)"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:679
+msgid "(Show Customization Options)"
+msgstr "(Visa anpassningsalternativ)"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:454
+msgid "Reset settings"
+msgstr "Återställ inställningar"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:454
+msgid "Replace all existing options and gallery options with their default settings"
+msgstr "Ersätt alla befintliga alternativ och gallerialternativ med standardinställningarna"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:450
+msgid "Reset Options"
+msgstr "Återställ alternativ"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:340
+msgid "Add MediaRSS link?"
+msgstr "Lägg till MediaRSS länk?"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:141
+msgid "Backup the original images?"
+msgstr "Säkerhetskopiera originalbilderna?"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:141
+msgid "Quality:"
+msgstr "Kvalitet:"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:141
+msgid "Height:"
+msgstr "Höjd:"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:141
+msgid "Width:"
+msgstr "Bredd:"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:141
+msgid "After images are uploaded, they will be resized to the above dimensions and quality"
+msgstr "Efter bilderna har laddats upp ändras de till ovanstående dimensioner och kvalitet"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:141
+msgid "Automatically resize images after upload"
+msgstr "Ändra storlek på bilder automatiskt efter uppladdning"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:141
+msgid "(Hide Customization Settings)"
+msgstr "(Dölj anpassningsinställningar)"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:141
+msgid "(Show Customization Settings)"
+msgstr "(Visa anpassningsinställningar)"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:141
+msgid "Show Related Images on Posts?"
+msgstr "Visa relaterade bilder på inlägg?"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:141
+msgid "When enabled, image files will be removed after a Gallery has been deleted"
+msgstr "När det är aktiverat kommer bildfiler att tas bort efter att ett galleri har tagits bort"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:141
+msgid "Delete Image Files?"
+msgstr "Ta bort bildfiler?"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:141
+msgid "Where galleries and their images are stored"
+msgstr "Där gallerier och deras bilder lagras"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:141
+msgid "Where would you like galleries stored?"
+msgstr "Var vill du ha gallerier lagrade?"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:141
+msgid "Gallery path does not exist and could not be created"
+msgstr "Sökväg för galleri finns inte och kunde inte skapas"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:111
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-sort.php:156
+msgid "Descending"
+msgstr "Fallande"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:111
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-sort.php:155
+msgid "Ascending"
+msgstr "Stigande"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:103
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:827
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-sort.php:152
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:163
+msgid "Filename"
+msgstr "Filnamn"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:42
+msgid "Javascript URL"
+msgstr "URL för Javascript"
+
+#: products/photocrati_nextgen/modules/nextgen_gallery_display/package.module.nextgen_gallery_display.php:1868
+#: products/photocrati_nextgen/modules/nextgen_gallery_display/package.module.nextgen_gallery_display.php:1870
+msgid "We cannot display this gallery"
+msgstr "Vi kan inte visa detta galleri"
+
+#: products/photocrati_nextgen/modules/nextgen_gallery_display/package.module.nextgen_gallery_display.php:1506
+msgid "Source not compatible with selected display type"
+msgstr "Källa är inte kompatibel med vald visningstyp"
+
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:4467
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:495
+msgid "Image Height"
+msgstr "Bildhöjd"
+
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:4467
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:494
+msgid "Image Width"
+msgstr "Bildbredd"
+
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:4467
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:488
+msgid "Source"
+msgstr "Källa"
+
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:4467
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:484
+msgid "Country code"
+msgstr "Landskod"
+
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:3004
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:3153
+msgid "Invalid image file. Acceptable formats: JPG, GIF, and PNG."
+msgstr "Ogiltig bildfil. Acceptabla format: JPG, GIF och PNG."
+
+#: products/photocrati_nextgen/modules/nextgen_basic_singlepic/package.module.nextgen_basic_singlepic.php:207
+msgid "Crop thumbnail"
+msgstr "Beskär miniatyr"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_singlepic/package.module.nextgen_basic_singlepic.php:199
+msgid "Display watermark"
+msgstr "Visa vattenstämpel"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_singlepic/package.module.nextgen_basic_singlepic.php:191
+msgid "Parent"
+msgstr "Överordnad"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:590
+msgid "Watermarks"
+msgstr "Vattenstämplar"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:26
+msgid "Code"
+msgstr "Kod"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/templates/lightbox_library_tab.php:44
+msgid "Try to apply to all images that link to image files"
+msgstr "Försök att tillämpa på alla bilder som länkar till bildfiler"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/templates/lightbox_library_tab.php:43
+msgid "Try to apply to all images"
+msgstr "Försök att tillämpa på alla bilder"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/templates/lightbox_library_tab.php:42
+msgid "Only apply to NextGEN and WordPress images"
+msgstr "Tillämpa endast på NextGEN och WordPress-bilder"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:654
+msgid "Font Color:"
+msgstr "Typsnittsfärg:"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:654
+msgid "Opacity:"
+msgstr "Opacitet:"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:654
+msgid "Font Size:"
+msgstr "Typsnittsstorlek:"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:654
+msgid "Font Family:"
+msgstr "Typsnittsfamilj:"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:502
+msgid "Roles & Capabilities"
+msgstr "Roller och behörigheter"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:454
+msgid ""
+"Reset all options to default settings?\n"
+"\n"
+"Choose [Cancel] to Stop, [OK] to proceed."
+msgstr ""
+"Återställ alla alternativ till standardinställningarna?\n"
+"\n"
+"Välj [Avbryt] för att stoppa, [OK] för att fortsätta."
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:340
+msgid "Display galleries in feeds"
+msgstr "Visa gallerier i flöden"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:141
+msgid "It is recommended that your images be resized to be web friendly"
+msgstr "Det rekommenderas att dina bilder ska ändras för att vara webbvänliga"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:141
+msgid "What should images be resized to?"
+msgstr "Vad ska bilderna storleksändras till?"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:141
+msgid "Sort in what direction?"
+msgstr "Sortera i vilken riktning?"
+
+#: products/photocrati_nextgen/modules/nextgen_gallery_display/package.module.nextgen_gallery_display.php:1934
+msgid " [<a href=\"%s\">See image gallery at %s</a>] "
+msgstr " [<a href=\"%s\">Se bildgalleri på %s</a>] "
+
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:4467
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:492
+msgid "Program tool"
+msgstr "Programverktyg"
+
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:4467
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:491
+msgid "Last modified"
+msgstr "Senast ändrad"
+
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:4467
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:486
+msgid "Headline"
+msgstr "Rubrik"
+
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:4467
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:469
+#: products/photocrati_nextgen/modules/ngglegacy/view/imagebrowser-exif.php:54
+msgid "Shutter speed"
+msgstr "Exponeringstid"
+
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:4467
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:467
+msgid "Focal length"
+msgstr "Brännvidd"
+
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:4467
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:464
+msgid "Caption"
+msgstr "Bildtext"
+
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:4467
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:462
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:487
+msgid "Credit"
+msgstr "Erkännande"
+
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:4467
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:461
+#: products/photocrati_nextgen/modules/ngglegacy/view/imagebrowser-exif.php:46
+msgid "Aperture"
+msgstr "Bländare"
+
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:2983
+#: products/photocrati_nextgen/modules/ngglegacy/lib/multisite.php:23
+msgid "Sorry, you have used your space allocation. Please delete some files to upload more files."
+msgstr "Tyvärr, du har använt ditt tilldelade utrymme. Ta bort några filer för att ladda upp fler filer."
+
+#: products/photocrati_nextgen/modules/nextgen_basic_singlepic/package.module.nextgen_basic_singlepic.php:203
+msgid "Display reflection"
+msgstr "Visa reflektion"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_singlepic/package.module.nextgen_basic_singlepic.php:191
+msgid "Blank"
+msgstr "Blank"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_gallery/package.module.nextgen_basic_gallery.php:487
+msgid "Show slideshow link"
+msgstr "Visa bildspelslänk"
+
+#: products/photocrati_nextgen/modules/nextgen_gallery_display/package.module.nextgen_gallery_display.php:2573
+msgid "Browse images without reloading the page."
+msgstr "Bläddra bilder utan att ladda om sidan."
+
+#: products/photocrati_nextgen/modules/nextgen_basic_gallery/package.module.nextgen_basic_gallery.php:473
+msgid "Add Hidden Images"
+msgstr "Lägg till dolda bilder"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_gallery/package.module.nextgen_basic_gallery.php:463
+msgid "# of columns"
+msgstr "# av kolumner"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_gallery/package.module.nextgen_basic_gallery.php:396
+msgid "Maximum dimensions"
+msgstr "Maximala dimensioner"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_gallery/module.nextgen_basic_gallery.php:336
+msgid "NextGEN Basic Slideshow"
+msgstr "NextGEN grundläggande bildspel"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_gallery/module.nextgen_basic_gallery.php:320
+msgid "NextGEN Basic Thumbnails"
+msgstr "NextGEN grundläggande miniatyrer"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:679
+msgid "How will you generate a watermark?"
+msgstr "Hur kommer du generera en vattenstämpel?"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:533
+msgid "Default thumbnail dimensions:"
+msgstr "Standarddimensioner för miniatyrer:"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:141
+msgid "What's the default sorting method?"
+msgstr "Vad är standardmetoden för sortering?"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:141
+msgid "Heading for related images"
+msgstr "Rubrik för relaterade bilder"
+
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:4467
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:496
+msgid "Flash"
+msgstr "Blixt"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_gallery/package.module.nextgen_basic_gallery.php:497
+msgid "Slideshow link text"
+msgstr "Bildspelets länktext"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:267
+msgid "Lightbox Effects"
+msgstr "Lightbox-effekter"
+
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:4467
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:781
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:470
+#: products/photocrati_nextgen/modules/widget/templates/form_gallery.php:4
+#: products/photocrati_nextgen/modules/widget/templates/form_mediarss.php:3
+#: products/photocrati_nextgen/modules/widget/templates/form_slideshow.php:3
+msgid "Title"
+msgstr "Rubrik"
+
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:4467
+#: products/photocrati_nextgen/modules/nextgen_gallery_display/package.module.nextgen_gallery_display.php:2065
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:118
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:173
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:472
+msgid "Tags"
+msgstr "Etiketter"
+
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:4467
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:664
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:412
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:471
+msgid "Author"
+msgstr "Författare"
+
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:4467
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:103
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-sort.php:154
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:465
+msgid "Date/Time"
+msgstr "Datum/tid"
+
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:4191
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:146
+msgid "Not fired"
+msgstr "Inte avfyrad"
+
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:4191
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:146
+msgid "Fired"
+msgstr "Avfyrad"
+
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:4467
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:466
+msgid "Copyright"
+msgstr "Upphovsrätt"
+
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:4467
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:489
+msgid "Copyright Notice"
+msgstr "Upphovsrättslig notis"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_tagcloud/package.module.nextgen_basic_tagcloud.php:118
+msgid "Maximum number of tags"
+msgstr "Maximalt antal etiketter"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_gallery/package.module.nextgen_basic_gallery.php:396
+msgid "Certain themes may allow images to flow over their container if this setting is too large"
+msgstr "Vissa teman kan låta bilder flöda över behållaren om denna inställning är för stor"
+
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:1789
+msgid "Could not calculate resized image dimensions"
+msgstr "Kunde inte beräkna dimensioner på storleksändrade bilder"
+
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:4467
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:480
+msgid "Author Position"
+msgstr "Författarposition"
+
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:4467
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:479
+msgid "Time Created"
+msgstr "Tid för skapande"
+
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:4467
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:478
+msgid "Date Created"
+msgstr "Datum för skapande"
+
+#: products/photocrati_nextgen/modules/nextgen_data/package.module.nextgen_data.php:4467
+#: products/photocrati_nextgen/modules/ngglegacy/lib/meta.php:483
+msgid "Province/State"
+msgstr "Region/stat"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:141
+msgid "When enabled, related images will be appended to each post by matching the posts tags/categories to image tags"
+msgstr "När det är aktiverat kommer relaterade bilder att läggas till varje inlägg genom att matcha inläggets etiketter/kategorier till bildetiketter"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:141
+msgid "Maximum # of related images to display"
+msgstr "Maximalt # antal relaterade bilder som ska visas"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:340
+msgid "Clear image cache"
+msgstr "Rensa bildcache"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:340
+msgid "NextGEN hides its gallery displays in feeds other than MediaRSS. This enables image galleries in feeds."
+msgstr "NextGEN döljer sitt galleri att visas i andra flöden än MediaRSS. Detta aktiverar bildgallerier i flöden."
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:340
+msgid "When enabled, adds a MediaRSS link to your header. Third-party web services can use this to publish your galleries"
+msgstr "När aktiverat läggs en MediaRSS-länk till din rubrik. Tredjeparts webbtjänster kan använda detta för att publicera dina gallerier"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:340
+msgid "Note: This limit will not apply to slideshow widgets or random galleries if/when those galleries specify their own image limits"
+msgstr "Obs! Denna gräns kommer inte tillämpas till bildspelswidgetar eller slumpmässiga gallerier om/när dessa gallerier specifierar sina egna bildgränser"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:533
+msgid "Set fix dimension?"
+msgstr "Ställ in fast dimension?"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:533
+msgid "Ignore the aspect ratio, no portrait thumbnails?"
+msgstr "Ignorera bildförhållandet, inga stående miniatyrer?"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:533
+msgid "Size List"
+msgstr "Storlekslista"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:616
+msgid "Using an Image"
+msgstr "Använda en bild"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:616
+msgid "Using Text"
+msgstr "Använda text"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:533
+msgid "List of default sizes used for thumbnails and images"
+msgstr "Lista över standardstorlekar som används för miniatyrer och bilder"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:679
+msgid "Please note: You can only activate the watermark under Manage Gallery. This action cannot be undone."
+msgstr "Observera: Du kan bara aktivera vattenstämpel under ”Hantera galleri”. Denna åtgärd kan inte ångras."
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:679
+msgid "Offset:"
+msgstr "Förskjutning:"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/templates/lightbox_library_tab.php:41
+msgid "Only apply to NextGEN images"
+msgstr "Tillämpa endast på NextGEN-bilder"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/templates/lightbox_library_tab.php:37
+msgid "What must the lightbox be applied to?"
+msgstr "Vad måste lightbox bli tillämpad till?"
+
+#: products/photocrati_nextgen/modules/nextgen_gallery_display/module.nextgen_gallery_display.php:410
+#: products/photocrati_nextgen/modules/nextgen_gallery_display/module.nextgen_gallery_display.php:493
+#: products/photocrati_nextgen/modules/nextgen_gallery_display/package.module.nextgen_gallery_display.php:20
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-images.php:183
+msgid "Gallery Settings"
+msgstr "Inställningar för galleri"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:340
+msgid "Maximum image count"
+msgstr "Maximalt antal bilder"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_tagcloud/package.module.nextgen_basic_tagcloud.php:294
+msgid "Images tagged &quot;%s&quot;"
+msgstr "Bilder märkt &quot;%s&quot;"
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:103
+msgid "Alt/Title Text"
+msgstr "Alt/rubrik text"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage.php:786
+msgid "Moved %1$s picture(s) to gallery: %2$s ."
+msgstr "Flyttade %1$s bild/bilder till galleri: %2$s."
+
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:141
+msgid "How should related images be matched?"
+msgstr "Hur ska relaterade bilder matchas?"
+
+#: products/photocrati_nextgen/modules/marketing/package.module.marketing.php:118
+#: products/photocrati_nextgen/modules/nextgen_admin/templates/field_generator/nextgen_settings_field_radio.php:24
+#: products/photocrati_nextgen/modules/nextgen_basic_singlepic/templates/nextgen_basic_singlepic_settings_radio.php:24
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:141
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:340
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:679
+#: products/photocrati_nextgen/modules/nextgen_other_options/templates/image_options_tab.php:55
+#: products/photocrati_nextgen/modules/nextgen_other_options/templates/image_options_tab.php:81
+#: products/photocrati_nextgen/modules/nextgen_other_options/templates/image_options_tab.php:204
+#: products/photocrati_nextgen/modules/nextgen_other_options/templates/thumbnail_options_tab.php:47
+msgid "No"
+msgstr "Nej"
+
+#: products/photocrati_nextgen/modules/marketing/package.module.marketing.php:117
+#: products/photocrati_nextgen/modules/nextgen_admin/templates/field_generator/nextgen_settings_field_radio.php:16
+#: products/photocrati_nextgen/modules/nextgen_basic_singlepic/templates/nextgen_basic_singlepic_settings_radio.php:16
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:141
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:340
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:679
+#: products/photocrati_nextgen/modules/nextgen_other_options/templates/image_options_tab.php:48
+#: products/photocrati_nextgen/modules/nextgen_other_options/templates/image_options_tab.php:74
+#: products/photocrati_nextgen/modules/nextgen_other_options/templates/image_options_tab.php:197
+#: products/photocrati_nextgen/modules/nextgen_other_options/templates/thumbnail_options_tab.php:40
+msgid "Yes"
+msgstr "Ja"
+
+#: products/photocrati_nextgen/modules/lightbox/package.module.lightbox.php:53
+#: products/photocrati_nextgen/modules/nextgen_basic_singlepic/package.module.nextgen_basic_singlepic.php:211
+#: products/photocrati_nextgen/modules/ngglegacy/admin/media-upload.php:290
+msgid "None"
+msgstr "Ingen"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_templates/package.module.nextgen_basic_templates.php:46
+#: products/photocrati_nextgen/modules/nextgen_gallery_display/package.module.nextgen_gallery_display.php:2640
+msgid "Default"
+msgstr "Standard"
+
+#: products/photocrati_nextgen/modules/lightbox/package.module.lightbox.php:83
+#: products/photocrati_nextgen/modules/lightbox/package.module.lightbox.php:91
+msgid "Close"
+msgstr "Stäng"
+
+#: products/photocrati_nextgen/modules/lightbox/package.module.lightbox.php:83
+#: products/photocrati_nextgen/modules/lightbox/package.module.lightbox.php:91
+#: products/photocrati_nextgen/modules/nextgen_basic_imagebrowser/templates/default-view.php:64
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:666
+msgid "Image"
+msgid_plural "Images"
+msgstr[0] "Bild"
+msgstr[1] ""
+
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/templates/import_media_library.php:2
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/templates/upload_images.php:12
+#: products/photocrati_nextgen/modules/ngglegacy/admin/admin.php:92
+#: products/photocrati_nextgen/modules/ngglegacy/admin/admin.php:110
+#: products/photocrati_nextgen/modules/ngglegacy/admin/admin.php:300
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:662
+#: products/photocrati_nextgen/modules/ngglegacy/lib/rewrite.php:217
+#: products/photocrati_nextgen/modules/ngglegacy/lib/rewrite.php:226
+msgid "Gallery"
+msgid_plural "Galleries"
+msgstr[0] "Galleri"
+msgstr[1] ""
+
+#: products/photocrati_nextgen/modules/lightbox/package.module.lightbox.php:83
+#: products/photocrati_nextgen/modules/nextgen_basic_imagebrowser/templates/nextgen_basic_imagebrowser.php:59
+#: products/photocrati_nextgen/modules/ngglegacy/view/imagebrowser-caption.php:29
+#: products/photocrati_nextgen/modules/ngglegacy/view/imagebrowser-exif.php:33
+#: products/photocrati_nextgen/modules/ngglegacy/view/imagebrowser.php:29
+msgid "Next"
+msgstr "Nästa"
+
+#: products/photocrati_nextgen/modules/nextgen_gallery_display/package.module.nextgen_gallery_display.php:2058
+msgid "Albums"
+msgstr "Album"
+
+#: products/photocrati_nextgen/modules/nextgen_gallery_display/package.module.nextgen_gallery_display.php:2051
+msgid "Galleries"
+msgstr "Gallerier"
+
+#: products/photocrati_nextgen/modules/attach_to_post/package.module.attach_to_post.php:492
+msgid "Select a Gallery"
+msgstr "Välj ett galleri"
+
+#: products/photocrati_nextgen/modules/attach_to_post/package.module.attach_to_post.php:492
+msgid "Slug"
+msgstr "Permalänk"
+
+#: products/photocrati_nextgen/modules/attach_to_post/package.module.attach_to_post.php:640
+#: products/photocrati_nextgen/modules/ngglegacy/admin/admin.php:82
+#: products/photocrati_nextgen/modules/ngglegacy/admin/admin.php:117
+#: products/photocrati_nextgen/modules/ngglegacy/admin/album.php:477
+msgid "Manage Albums"
+msgid_plural "Albums"
+msgstr[0] "Hantera album"
+msgstr[1] ""
+
+#: products/photocrati_nextgen/modules/attach_to_post/package.module.attach_to_post.php:637
+#: products/photocrati_nextgen/modules/ngglegacy/admin/admin.php:81
+#: products/photocrati_nextgen/modules/ngglegacy/admin/admin.php:115
+#: products/photocrati_nextgen/modules/ngglegacy/admin/manage-galleries.php:199
+msgid "Manage Galleries"
+msgid_plural "Manage Galleries"
+msgstr[0] "Hantera gallerier"
+msgstr[1] ""
+
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:360
+#: products/photocrati_nextgen/modules/ngglegacy/admin/admin.php:113
+msgid "Add Gallery / Images"
+msgstr "Lägg till galleri / bilder"
+
+#: products/photocrati_nextgen/modules/attach_to_post/package.module.attach_to_post.php:144
+msgid "Gallery: %s"
+msgstr "Galleri: %s"
+
+#: products/photocrati_nextgen/modules/attach_to_post/package.module.attach_to_post.php:142
+msgid "Album: %s"
+msgstr "Album: %s"
+
+#: products/photocrati_nextgen/modules/attach_to_post/package.module.attach_to_post.php:492
+#: products/photocrati_nextgen/modules/nextgen_admin/package.module.nextgen_admin.php:692
+msgid "(optional)"
+msgstr "(valfritt)"
+
+#: products/photocrati_nextgen/modules/lightbox/package.module.lightbox.php:75
+#: products/photocrati_nextgen/modules/ngglegacy/admin/admin.php:220
+msgid "L O A D I N G"
+msgstr "L A D D A R"
+
+#: products/photocrati_nextgen/modules/lightbox/package.module.lightbox.php:83
+msgid "Previous"
+msgstr "Föregående"
+
+#: products/photocrati_nextgen/modules/attach_to_post/templates/display_tab.php:29
+#: products/photocrati_nextgen/modules/lightbox/package.module.lightbox.php:75
+#: products/photocrati_nextgen/modules/ngglegacy/admin/admin.php:221
+msgid "Click to Close"
+msgstr "Klicka för att stänga"
+
+#: products/photocrati_nextgen/modules/lightbox/package.module.lightbox.php:83
+#: products/photocrati_nextgen/modules/lightbox/package.module.lightbox.php:91
+#: products/photocrati_nextgen/modules/nextgen_basic_imagebrowser/templates/default-view.php:66
+#: products/photocrati_nextgen/modules/nextgen_basic_imagebrowser/templates/nextgen_basic_imagebrowser.php:67
+#: products/photocrati_nextgen/modules/ngglegacy/view/imagebrowser-caption.php:31
+#: products/photocrati_nextgen/modules/ngglegacy/view/imagebrowser-exif.php:35
+#: products/photocrati_nextgen/modules/ngglegacy/view/imagebrowser.php:31
+msgid "of"
+msgstr "av"
+
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:11
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/templates/import_folder.php:12
+msgid "Import Folder"
+msgstr "Importera mapp"
+
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:43
+msgid "Import 1 image"
+msgstr "Importera 1 bild"
+
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:43
+msgid "Import %s images"
+msgstr "Importera %s bilder"
+
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:43
+msgid "Import Images into NextGen Gallery"
+msgstr "Importera bilder till NextGen Gallery"
+
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:48
+msgid "Select images"
+msgstr "Välj bilder"
+
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:48
+msgid "Please make a selection to continue"
+msgstr "Gör ett val för att fortsätta"
+
+#: products/photocrati_nextgen/modules/attach_to_post/package.module.attach_to_post.php:634
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:401
+msgid "Upload Images"
+msgstr "Ladda upp bilder"
+
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:266
+msgid "No folder specified"
+msgstr "Ingen mapp specificerad"
+
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:229
+msgid "No directory specified."
+msgstr "Ingen katalog specificerad"
+
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:105
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:131
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:296
+msgid "No gallery name specified"
+msgstr "Ingen gallerinamn specificerad"
+
+#: products/photocrati_nextgen/modules/nextgen_gallery_display/package.module.nextgen_gallery_display.php:2597
+msgid "Override image settings"
+msgstr "Åsidosätt bildinställningar"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_singlepic/package.module.nextgen_basic_singlepic.php:195
+#: products/photocrati_nextgen/modules/nextgen_gallery_display/package.module.nextgen_gallery_display.php:2602
+msgid "Image quality"
+msgstr "Bildkvalitet"
+
+#: products/photocrati_nextgen/modules/nextgen_admin/package.module.nextgen_admin.php:696
+msgid "Average"
+msgstr "Genomsnitt"
+
+#: products/photocrati_nextgen/modules/nextgen_admin/package.module.nextgen_admin.php:696
+msgid "First Image"
+msgstr "Första bilden"
+
+#: products/photocrati_nextgen/modules/nextgen_admin/package.module.nextgen_admin.php:692
+msgid "Percent"
+msgstr "Procent"
+
+#: products/photocrati_nextgen/modules/nextgen_admin/package.module.nextgen_admin.php:692
+msgid "Pixels"
+msgstr "Pixlar"
+
+#: products/photocrati_nextgen/modules/nextgen_admin/package.module.nextgen_admin.php:1104
+msgid "Saved successfully"
+msgstr "Sparades utan problem"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_album/templates/compact.php:41
+#: products/photocrati_nextgen/modules/nextgen_basic_album/templates/compact/default-view.php:56
+#: products/photocrati_nextgen/modules/nextgen_basic_album/templates/extended.php:31
+#: products/photocrati_nextgen/modules/nextgen_basic_album/templates/extended/default-view.php:31
+#: products/photocrati_nextgen/modules/ngglegacy/view/album-compact.php:63
+#: products/photocrati_nextgen/modules/ngglegacy/view/album-extend.php:31
+msgid "Photos"
+msgstr "Foton"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_album/package.module.nextgen_basic_album.php:904
+msgid "Enable breadcrumbs"
+msgstr "Aktivera synliga sökvägar"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_album/package.module.nextgen_basic_album.php:891
+msgid "Galleries per page"
+msgstr "Gallerier per sida"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_album/package.module.nextgen_basic_album.php:891
+msgid "How would you like galleries to be displayed?"
+msgstr "Hur vill du att gallerier ska visas?"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_album/package.module.nextgen_basic_album.php:891
+msgid "Display galleries as"
+msgstr "Visa gallerier som"
+
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:43
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/templates/import_folder.php:52
+msgid "Importing gallery"
+msgstr "Importerar galleri"
+
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:43
+msgid "0 images were uploaded"
+msgstr "0 bilder har laddats upp"
+
+#: products/photocrati_nextgen/modules/lightbox/package.module.lightbox.php:83
+msgid "Fit to Screen"
+msgstr "Anpassa till skärm"
+
+#: products/photocrati_nextgen/modules/lightbox/package.module.lightbox.php:83
+msgid "Full Size"
+msgstr "Full storlek"
+
+#: products/photocrati_nextgen/modules/attach_to_post/package.module.attach_to_post.php:843
+msgid "Sort or Exclude Images"
+msgstr "Sortera eller exkludera bilder"
+
+#: products/photocrati_nextgen/modules/attach_to_post/package.module.attach_to_post.php:833
+msgid "No display type selected"
+msgstr "Ingen visningstyp vald"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_album/package.module.nextgen_basic_album.php:900
+msgid "Items per page"
+msgstr "Objekt per sida"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_album/module.nextgen_basic_album.php:223
+msgid "NextGEN Basic Extended Album"
+msgstr "NextGEN grundläggande utökat album"
+
+#: products/photocrati_nextgen/modules/nextgen_gallery_display/package.module.nextgen_gallery_display.php:2603
+msgid "Image crop"
+msgstr "Beskär bild"
+
+#: products/photocrati_nextgen/modules/nextgen_gallery_display/package.module.nextgen_gallery_display.php:2584
+msgid "Thumbnail crop"
+msgstr "Beskär miniatyr"
+
+#: products/photocrati_nextgen/modules/nextgen_basic_singlepic/package.module.nextgen_basic_singlepic.php:183
+#: products/photocrati_nextgen/modules/nextgen_gallery_display/package.module.nextgen_gallery_display.php:2583
+msgid "Thumbnail dimensions"
+msgstr "Miniatyrdimensioner"
+
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/templates/import_media_library.php:4
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/templates/upload_images.php:18
+msgid "Create a new gallery"
+msgstr "Skapa ett nytt galleri"
+
+#: products/photocrati_nextgen/modules/nextgen_gallery_display/package.module.nextgen_gallery_display.php:2582
+msgid "Override thumbnail settings"
+msgstr "Åsidosätt miniatyrinställningarna"
+
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:257
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:269
+msgid "No permissions to import folders. Try refreshing the page or ensuring that your user account has sufficient roles/privileges."
+msgstr "Inga behörigheter att importera mappar. Försök uppdatera sidan eller se till att ditt användarkonto har tillräckliga roller/privilegier."
+
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:223
+msgid "Directory does not exist."
+msgstr "Katalog finns inte."
+
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:94
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:178
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:341
+msgid "No permissions to upload images. Try refreshing the page or ensuring that your user account has sufficient roles/privileges."
+msgstr "Inga behörigheter att ladda upp bilder. Försök uppdatera sidan eller se till att ditt användarkonto har tillräckliga roller/privilegier."
+
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:226
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:232
+msgid "No permissions to browse folders. Try refreshing the page or ensuring that your user account has sufficient roles/privileges."
+msgstr "Inga behörigheter att bläddra i mappar. Försök uppdatera sidan eller se till att ditt användarkonto har tillräckliga roller/privilegier."
+
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:262
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:284
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:335
+msgid "An unexpected error occured."
+msgstr "Ett oväntat fel uppstod."
+
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:162
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:309
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:326
+msgid "Image generation failed"
+msgstr "Bildgenerering misslyckades"
+
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:144
+msgid "Failed to extract images from ZIP"
+msgstr "Misslyckades att extrahera bilder från ZIP"
+
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/templates/import_folder.php:79
+msgid "Upload complete"
+msgstr "Uppladdning färdig"
+
+#: products/photocrati_nextgen/modules/attach_to_post/package.module.attach_to_post.php:621
+msgid "NextGEN Gallery - Attach To Post"
+msgstr "NextGEN Gallery – Bifoga till inlägg"
+
+#: products/photocrati_nextgen/modules/attach_to_post/package.module.attach_to_post.php:194
+msgid "Invalid request"
+msgstr "Ogiltig förfrågan"
+
+#: products/photocrati_nextgen/modules/attach_to_post/package.module.attach_to_post.php:191
+msgid "Displayed gallery does not exist"
+msgstr "Visat galleri finns inte"
+
+#: products/photocrati_nextgen/modules/attach_to_post/package.module.attach_to_post.php:158
+msgid "Missing parameters"
+msgstr "Saknade parametrar"
+
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:43
+msgid "1 image was uploaded successfully. <a href=\"%s\" target=\"_blank\">Manage gallery</a>"
+msgstr "1 bild laddades upp utan problem. <a href=\"%s\" target=\"_blank\">Hantera galleri</a>"
+
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:43
+msgid "{count} images were uploaded successfully. <a href=\"%s\" target=\"_blank\">Manage gallery</a>"
+msgstr "{count} bilder laddades upp utan problem. <a href=\"%s\" target=\"_blank\">Hantera galleri</a>"
+
+#: nggallery.php:530
+msgid "Every %d seconds"
+msgstr "Var %d sekund"
+
+#: nggallery.php:368
+msgid "NextGEN Gallery %s is incompatible with this version of NextGEN Pro. Please update NextGEN Pro to version %s or higher to restore NextGEN Pro functionality."
+msgstr "NextGEN Gallery %s är inkompatibel med denna version av NextGEN Pro. Uppdatera NextGEN Pro till version %s eller högre för att återställa NextGEN Pro-funktionaliteten."
+
+#: products/photocrati_nextgen/modules/nextgen_basic_album/package.module.nextgen_basic_album.php:900
+msgid "Maximum number of galleries or sub-albums to appear on a single page"
+msgstr "Maximalt antal gallerier eller delalbum ska synas på en enda sida"
+
+#: products/photocrati_nextgen/modules/nextgen_admin/package.module.nextgen_admin.php:692
+msgid "An empty or 0 setting will make the gallery full width"
+msgstr "En tom eller 0-inställning gör galleriet full bredd"
+
+#: products/photocrati_nextgen/modules/nextgen_admin/package.module.nextgen_admin.php:692
+msgid "Gallery width"
+msgstr "Bredd på galleri"
+
+#: products/photocrati_nextgen/modules/nextgen_gallery_display/package.module.nextgen_gallery_display.php:2604
+msgid "Image watermark"
+msgstr "Bildvattenstämpel"
+
+#: products/photocrati_nextgen/modules/nextgen_gallery_display/package.module.nextgen_gallery_display.php:2597
+msgid "Overriding the image settings will create an additional set of images"
+msgstr "Åsidosättning av bildinställningar kommer skapa en ytterligare uppsättning av bilder"
+
+#: products/photocrati_nextgen/modules/nextgen_admin/package.module.nextgen_admin.php:349
+msgid "Not a valid notice name"
+msgstr "Inte ett giltigt notisnamn"
+
+#: products/photocrati_nextgen/modules/nextgen_gallery_display/package.module.nextgen_gallery_display.php:2573
+msgid "Enable AJAX pagination"
+msgstr "Aktivera AJAX-paginering"
+
+#: products/photocrati_nextgen/modules/lightbox/package.module.lightbox.php:97
+#: products/photocrati_nextgen/modules/nextgen_other_options/package.module.nextgen_other_options.php:103
+#: products/photocrati_nextgen/modules/ngglegacy/admin/thumbnails-template.php:76
+msgid "Custom"
+msgstr "Anpassad"
+
+#: products/photocrati_nextgen/modules/lightbox/package.module.lightbox.php:79
+msgid "Shutter Reloaded"
+msgstr "Slutaren laddades om"
+
+#: products/photocrati_nextgen/modules/ngglegacy/admin/admin.php:83
+#: products/photocrati_nextgen/modules/ngglegacy/admin/admin.php:119
+msgid "Manage Tags"
+msgstr "Hantera etiketter"
+
+#: products/photocrati_nextgen/modules/lightbox/package.module.lightbox.php:71
+msgid "Shutter"
+msgstr "Slutare"
+
+#: products/photocrati_nextgen/modules/lightbox/package.module.lightbox.php:91
+msgid "&lt; Prev"
+msgstr "&lt; Föregående"
+
+#: products/photocrati_nextgen/modules/lightbox/package.module.lightbox.php:91
+msgid "Next &gt;"
+msgstr "Nästa &gt;"
+
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:48
+msgid "Import %d image(s)"
+msgstr "Importera %d bild/bilder"
+
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/package.module.nextgen_addgallery_page.php:43
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/templates/import_folder.php:54
+msgid "In Progress..."
+msgstr "Pågående…"
+
+#: products/photocrati_nextgen/modules/nextgen_addgallery_page/templates/import_folder.php:74
+msgid "Done! Successfully imported {count} images. <a href=\"%s\" target=\"_blank\">Manage gallery</a>"
+msgstr "Klart! Utan problem importerades {count} bilder. <a href=\"%s\" target=\"_blank\">Hantera galleri</a>"
+
+#: products/photocrati_nextgen/modules/attach_to_post/module.attach_to_post.php:318
+msgid "Invalid Displayed Gallery"
+msgstr "Ogiltigt visat galleri"
+
+#: products/photocrati_nextgen/modules/lightbox/package.module.lightbox.php:83
+#: products/photocrati_nextgen/modules/nextgen_block/static/src/components/ngg-post-thumbnail.jsx:14
+msgid "Loading..."
+msgstr "Laddar in …"

@@ -1,0 +1,16 @@
+body
+{
+	background-image: url("/wp-content/themes/thesis/custom/images/background_top_700.jpg");
+	background-position: center top;
+	background-repeat: repeat-x;
+}
+
+#footer_area
+{
+	margin-top:-90px;
+	position:absolute;
+	height: 195px;
+	background: url("/wp-content/themes/thesis/custom/images/a4campus-footer-ie.png");
+	background-position: top center;
+	background-repeat: no-repeat;
+}

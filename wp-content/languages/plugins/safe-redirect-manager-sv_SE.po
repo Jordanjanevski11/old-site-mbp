@@ -1,0 +1,221 @@
+# Translation of Plugins - Safe Redirect Manager - Stable (latest release) in Swedish
+# This file is distributed under the same license as the Plugins - Safe Redirect Manager - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-08-07 09:22:45+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - Safe Redirect Manager - Stable (latest release)\n"
+
+#: inc/classes/class-srm-post-type.php:657
+msgid "There are some issues validating the URL. Please try again."
+msgstr "Det finns några problem med att validera URL:en. Försök igen."
+
+#: inc/functions.php:119
+msgid "Gone"
+msgstr "Borta"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/safe-redirect-manager"
+msgstr "https://wordpress.org/plugins/safe-redirect-manager"
+
+#: inc/classes/class-srm-post-type.php:368
+msgid "Order"
+msgstr "Ordning"
+
+#: inc/classes/class-srm-post-type.php:588
+msgid "Optionally leave notes on this redirect e.g. why was it created."
+msgstr "Lämna frivilliga anteckningar om denna omdirigering, t.ex. varför den skapades."
+
+#. Author of the plugin
+msgid "10up"
+msgstr "10up"
+
+#: inc/classes/class-srm-post-type.php:586
+msgid "Notes:"
+msgstr "Anteckningar:"
+
+#: inc/functions.php:113
+msgid "Moved Permanently"
+msgstr "Flyttad permanent"
+
+#: inc/classes/class-srm-post-type.php:483
+msgctxt "redirect rule"
+msgid "Create Redirect Rule"
+msgstr "Skapa omdirigeringsregel"
+
+#: inc/functions.php:116
+msgid "Temporary Redirect"
+msgstr "Tillfällig omdirigering"
+
+#: inc/functions.php:118
+msgid "Not Found"
+msgstr "Hittades inte"
+
+#: inc/classes/class-srm-post-type.php:307
+msgid "Redirect rule scheduled for: %1$s."
+msgstr "Omdirigeringsregel schemalagd för: %1$s."
+
+#. Author URI of the plugin
+msgid "https://10up.com"
+msgstr "https://10up.com"
+
+#: inc/functions.php:117
+msgid "Forbidden"
+msgstr "Förbjudet"
+
+#: inc/functions.php:115
+msgid "See Other"
+msgstr "Se andra"
+
+#: inc/functions.php:114
+msgid "Found"
+msgstr "Hittat"
+
+#: inc/classes/class-srm-post-type.php:485
+msgid "Edit Redirect Rule"
+msgstr "Redigera omdirigeringsregel"
+
+#: inc/classes/class-srm-post-type.php:486
+msgid "New Redirect Rule"
+msgstr "Ny omdirigeringsregel"
+
+#: inc/classes/class-srm-post-type.php:371
+msgid "Redirect From"
+msgstr "Omdirigera från"
+
+#: inc/classes/class-srm-post-type.php:366
+msgid "Redirect To"
+msgstr "Omdirigera till"
+
+#: inc/classes/class-srm-post-type.php:297
+#: inc/classes/class-srm-post-type.php:300
+msgid "Redirect rule updated."
+msgstr "Omdirigeringsregel uppdaterad."
+
+#: inc/classes/class-srm-post-type.php:304
+msgid "Redirect rule saved."
+msgstr "Omdirigeringsregel sparad."
+
+#: inc/classes/class-srm-post-type.php:303
+msgid "Redirect rule published."
+msgstr "Omdirigeringsregel publicerad."
+
+#: inc/classes/class-srm-post-type.php:367
+msgid "HTTP Status Code"
+msgstr "HTTP-statuskod"
+
+#: inc/classes/class-srm-post-type.php:536
+msgid "Redirect Settings"
+msgstr "Omdirigeringsinställningar"
+
+#: inc/classes/class-srm-post-type.php:375
+msgid "Date"
+msgstr "Datum"
+
+#: inc/classes/class-srm-post-type.php:582
+msgid "If you don't know what this is, leave it as is."
+msgstr "Om du inte vet vad detta är, lämna det som det är."
+
+#. Plugin Name of the plugin
+#: inc/classes/class-srm-post-type.php:484
+#: inc/classes/class-srm-post-type.php:487
+#: inc/classes/class-srm-post-type.php:493
+msgid "Safe Redirect Manager"
+msgstr "Safe Redirect Manager"
+
+#: inc/classes/class-srm-post-type.php:299
+msgid "Custom field deleted."
+msgstr "Anpassat fält borttaget."
+
+#: inc/classes/class-srm-post-type.php:298
+msgid "Custom field updated."
+msgstr "Anpassat fält uppdaterat."
+
+#: inc/classes/class-srm-post-type.php:312
+msgid "Redirect rule draft updated."
+msgstr "Utkastet för omdiringeringsregel uppdaterad."
+
+#: inc/classes/class-srm-post-type.php:488
+msgid "View Redirect Rule"
+msgstr "Visa omdirigeringsregel"
+
+#: inc/classes/class-srm-post-type.php:489
+msgid "Search Redirects"
+msgstr "Sök omdirigeringar"
+
+#: inc/classes/class-srm-post-type.php:490
+msgid "No redirect rules found."
+msgstr "Inga omdirigeringsregler hittades."
+
+#: inc/functions.php:226
+msgid "Redirect already exists for %s"
+msgstr "Omdirigering finns redan för %s"
+
+#: inc/functions.php:221
+msgid "Invalid status code."
+msgstr "Ogiltig statuskod."
+
+#: inc/classes/class-srm-post-type.php:491
+msgid "No redirect rules found in trash."
+msgstr "Inga omdirigeringsregler hittade i papperskorgen."
+
+#: inc/classes/class-srm-post-type.php:246
+msgid "Safe Redirect Manager Error: You have reached the maximum allowable number of redirects"
+msgstr "Felmeddelande från Safe Redirect Manager: Du har uppnått det maximala antalet tillåtna omdirigeringar."
+
+#. translators: %s: date and time of the revision
+#: inc/classes/class-srm-post-type.php:302
+msgid "Redirect rule restored to revision from %s"
+msgstr "Omdirigeringsregel återställd till versionen från %s"
+
+#: inc/classes/class-srm-post-type.php:482
+msgctxt "post type singular name"
+msgid "Redirect"
+msgstr "Omdirigera"
+
+#. Description of the plugin
+msgid "Easily and safely manage HTTP redirects."
+msgstr "Hantera HTTP-omdirigeringar enkelt och säkert."
+
+#: inc/functions.php:240
+msgid "An error occurred creating the redirect."
+msgstr "Ett fel uppstod vid skapandet av omdirigeringsregel."
+
+#: inc/functions.php:217
+msgid "Redirect from and/or redirect to arguments are invalid."
+msgstr "Omdirigering från och/eller omdirigering till argument är ogiltig."
+
+#: inc/classes/class-srm-post-type.php:305
+msgid "Redirect rule submitted."
+msgstr "Omdirigeringsregel skickades."
+
+#: inc/classes/class-srm-post-type.php:565
+msgid "Enable Regular Expressions (advanced)"
+msgstr "Aktivera vanliga uttryck (avancerat)"
+
+#. translators: Publish box date format, see http://php.net/date
+#: inc/classes/class-srm-post-type.php:309
+msgid "M j, Y @ G:i"
+msgstr "j M, Y @ H:i"
+
+#: inc/classes/class-srm-post-type.php:481
+msgctxt "post type general name"
+msgid "Safe Redirect Manager"
+msgstr "Säker omdirigeringshanterare"
+
+#: inc/classes/class-srm-post-type.php:576
+msgid "* HTTP Status Code:"
+msgstr "* HTTP-statuskod:"
+
+#: inc/classes/class-srm-post-type.php:570
+msgid "* Redirect To:"
+msgstr "* Omdirigera till:"
+
+#: inc/classes/class-srm-post-type.php:562
+msgid "* Redirect From:"
+msgstr "* Omdirigera från:"

@@ -1,0 +1,54 @@
+# Translation of Plugins - WordPress Share Buttons Plugin – AddThis - Stable (latest release) in Swedish
+# This file is distributed under the same license as the Plugins - WordPress Share Buttons Plugin – AddThis - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-09-10 10:12:52+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - WordPress Share Buttons Plugin – AddThis - Stable (latest release)\n"
+
+#. Description of the plugin
+msgid "Set up sharing tools from AddThis right in WordPress. With AddThis you can see how your users are engaging with your content, provide a personalized experience for each user and encourage them to share your content in their social networks. Follow tools, recommended content, conversion tools and social analytics available to registered accounts at addthis.com."
+msgstr "Ställ in delningsverktyg från AddThis direkt i WordPress. Med AddThis kan du se hur dina användare engagerar sig i ditt innehåll, ge en personlig upplevelse för varje användare och uppmuntra dem att dela ditt innehåll i sina sociala nätverk. ”Följ”-verktyg, rekommenderat innehåll, konverteringsverktyg och sociala analyser är tillgängligt för registrerade konton på addthis.com."
+
+#. Author URI of the plugin
+msgid "http://www.addthis.com"
+msgstr "http://www.addthis.com"
+
+#. Author of the plugin
+msgid "The AddThis Team"
+msgstr "The AddThis Team"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/addthis/"
+msgstr "https://wordpress.org/plugins/addthis/"
+
+#. Plugin Name of the plugin
+msgid "Share Buttons by AddThis"
+msgstr "Share Buttons by AddThis"
+
+#: backend/AddThisWidgetByDomClass.php:242
+msgid "Tool: "
+msgstr "Verktyg:"
+
+#: backend/AddThisWidgetByDomClass.php:200
+#: backend/AddThisWidgetByDomClass.php:498
+msgid "Title: "
+msgstr "Rubrik:"
+
+#: backend/AddThisGlobalOptionsFeature.php:976
+msgid "Terms of Service"
+msgstr "Användarvillkor"
+
+#: backend/AddThisGlobalOptionsFeature.php:971
+msgid "Privacy Policy"
+msgstr "Integritetspolicy"
+
+#: backend/AddThisGlobalOptionsFeature.php:931
+#: backend/AddThisWidgetByDomClass.php:491
+msgid "the plugin's settings"
+msgstr "tilläggets inställningar"
